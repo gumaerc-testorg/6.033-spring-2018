@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 12: Security Part II'
+parent_type: CourseSection
 parent_uid: 463ad0d7-960d-0f16-fac5-ad1eab91ef20
 title: Lecture 21 Outline
 uid: 2500dbfe-4b2f-c63e-8d8a-c612f61c4d08

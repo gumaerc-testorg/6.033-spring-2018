@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: e75a8c08-e117-86c5-3503-1b5e10f0fe19
 ---
@@ -46,28 +48,6 @@ CI-M ![](/images/educator/icon-question-cim.png)
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Lecture hall with tiered seating and tablet armchairs.]({{< resource_file a18d96b3-21bd-fa67-08d4-1f15ddcdbd14 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Lectures took place in a large hall equipped with sliding chalkboards and tiered seating.
-    
-*   ![Four rows of tablet armchairs facing sliding chalkboards at front and side of room. An instructor’s table is in front of the chalkboards.]({{< resource_file f71e9470-30e0-207a-655e-28d00738d833 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Recitations took place in smaller rooms with moveable tablet arm chairs and sliding chalkboards.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

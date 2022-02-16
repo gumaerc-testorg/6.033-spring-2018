@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 8: Distributed Systems Part I'
 uid: 03839826-8d83-1a70-6fad-0af0bfa301d7
 ---

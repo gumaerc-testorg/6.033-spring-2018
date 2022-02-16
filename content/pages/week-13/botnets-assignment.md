@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 13: Security Part III'
+parent_type: CourseSection
 parent_uid: 87aba984-30c8-d18b-3f71-7bdec998328f
 title: Botnets Assignment
 uid: ea13cbf1-25e6-cb4f-d552-53fee6563f83

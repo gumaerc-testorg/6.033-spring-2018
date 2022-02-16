@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 5: Networking Part I'
+parent_type: CourseSection
 parent_uid: a8eaa3de-11de-35a2-f8d6-b2d186c97fc6
 title: Landmark Routing Assignment
 uid: 88350e45-d2ab-eb7d-9d77-bcfb2ecec721

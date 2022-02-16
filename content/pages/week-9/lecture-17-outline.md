@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 9: Distributed Systems Part II'
+parent_type: CourseSection
 parent_uid: aa415ef7-5752-19ee-a10a-fb9dc2dbef65
 title: Lecture 17 Outline
 uid: 0f38d012-21c7-a072-b7fd-cd72637e5cd3
@@ -163,7 +166,7 @@ uid: 0f38d012-21c7-a072-b7fd-cd72637e5cd3
       T2: write (y, 30); T1: read (y)  
       T2: write (y, 30); T1: write (y, y+10)`
     
-    Our conflict graph here is T1 <--> T2.
+    Our conflict graph here is T1 \<--> T2.
     
     (Note: this schedule was final-state serializable but not conflict serializable.)
     
@@ -302,7 +305,7 @@ uid: 0f38d012-21c7-a072-b7fd-cd72637e5cd3
         The conflict graph is:  
          ![Conflict graph between T1, T2, T3, and T4.]({{< resource_file 191c7334-efdd-f334-6e7d-357d7122f6b8 >}})
         
-    *   Acyclic conflict graph <=> conflict-serializable.
+    *   Acyclic conflict graph \<=> conflict-serializable.
         *   Makes sense: conflict graph for any serial schedule is acyclic.
         *   But we won't formally prove this.
 5.  Interlude

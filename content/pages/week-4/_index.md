@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 4: Operating Systems Part IV'
 uid: 0466ee2b-5ebb-72d0-ad4f-7badf3b6c645
 ---

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 13: Security Part III'
+parent_type: CourseSection
 parent_uid: 87aba984-30c8-d18b-3f71-7bdec998328f
 title: Lecture 24 Outline
 uid: c4a5c659-5c87-2d2d-140b-12b013818b4a
@@ -88,7 +91,7 @@ An invaluable resource for Bitcoin is this blog post: [How the Bitcoin Protocol
         *   Users who hear that message add it to their queue of pending transactions. Their goal is to verify a block of those transactions.
         *   After a user checks that the block is valid - that everyone owns the coins they're trying to spend—they set about solving the following "puzzle":
             *   t = block of transactions (as a bitstring).
-            *   Find x such that H(t|x) < target.
+            *   Find x such that H(t|x) \< target.
             *   Target changes frequently. Adjusted so that it takes roughly ten minutes to solve this puzzle.
         *   When a user solves the puzzle (finds x), they broadcast the block out along with x. They receive a monetary reward for solving the proof of work, to motivate users to take part in this process.
         *   This process is known as "mining" bitcoins.

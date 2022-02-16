@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 11: Security Part I'
+parent_type: CourseSection
 parent_uid: c7a234fb-b37e-e20a-41b9-581882a0afcd
 title: Raft Assignment
 uid: 664be575-c00e-8b73-1e97-37cd0a323c01

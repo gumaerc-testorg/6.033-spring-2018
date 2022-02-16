@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 9: Distributed Systems Part II'
+parent_type: CourseSection
 parent_uid: aa415ef7-5752-19ee-a10a-fb9dc2dbef65
 title: Databases Assignment
 uid: f3fea455-6b17-29b1-b548-eaf293e7bf2c

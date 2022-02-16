@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 12: Security Part II'
 uid: 463ad0d7-960d-0f16-fac5-ad1eab91ef20
 ---

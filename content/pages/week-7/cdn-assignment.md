@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 7: Networking Part III'
+parent_type: CourseSection
 parent_uid: 0abfab7f-cd01-9a6a-159d-1afa3fd61f99
 title: CDN Assignment
 uid: 0de7a026-cc51-8d64-2305-b1769d62af0f

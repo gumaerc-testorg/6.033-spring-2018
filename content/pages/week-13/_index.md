@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 13: Security Part III'
 uid: 87aba984-30c8-d18b-3f71-7bdec998328f
 ---

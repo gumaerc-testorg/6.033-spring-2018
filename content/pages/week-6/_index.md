@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 6: Networking Part II'
 uid: 75800336-c3a2-ebee-84a1-8bb126a5a60b
 ---

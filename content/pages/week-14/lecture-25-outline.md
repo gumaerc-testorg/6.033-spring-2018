@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 14: Security Part IV'
+parent_type: CourseSection
 parent_uid: a53ea92f-4c3d-bec4-3ffa-e7cf73d6eb29
 title: Lecture 25 Outline
 uid: 935d90a5-7a9a-0169-7319-6c14b0526d90

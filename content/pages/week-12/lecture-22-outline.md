@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 12: Security Part II'
+parent_type: CourseSection
 parent_uid: 463ad0d7-960d-0f16-fac5-ad1eab91ef20
 title: Lecture 22 Outline
 uid: d855de67-a6df-3be8-d7e7-b03e92d249a3
@@ -148,7 +151,7 @@ Disclaimer: This is part of the security section in 6.033. Only use the informat
         *   Who should run the certificate authority?
         *   How does the browser get this list of CAs?
             *   Generally they come with the browser.
-        *   How does the CA build its table of names <-> public keys?
+        *   How does the CA build its table of names \<-> public keys?
             *   Have to agree on how to name principals, and need a mechanism to check that a key corresponds to a name.
         *   What if a CA makes a mistake?
             *   Need a way to revoke certificates..

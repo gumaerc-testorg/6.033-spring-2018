@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 10: Distributed Systems Part III'
+parent_type: CourseSection
 parent_uid: 62a94c78-a524-3c30-60aa-11c27ff81fc7
 title: Lecture 18 Outline
 uid: b1089f5d-b898-b0e4-3de1-1f7b4fb2a366

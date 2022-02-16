@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 8: Distributed Systems Part I'
+parent_type: CourseSection
 parent_uid: 03839826-8d83-1a70-6fad-0af0bfa301d7
 title: Lecture 15 Outline
 uid: f982d841-2b34-3c22-7262-04fc7b163732

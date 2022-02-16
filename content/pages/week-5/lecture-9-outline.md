@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 5: Networking Part I'
+parent_type: CourseSection
 parent_uid: a8eaa3de-11de-35a2-f8d6-b2d186c97fc6
 title: Lecture 9 Outline
 uid: 82d38378-244b-6686-4fad-14c082cb5df9

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 2: Operating Systems Part II'
+parent_type: CourseSection
 parent_uid: d23c09ff-9de9-dc9c-b989-05d72c54fd66
 title: UNIX Assignment Part 1
 uid: 37760e09-a6c5-09c9-e969-bcefe6230e7d

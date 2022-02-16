@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 7: Networking Part III'
+parent_type: CourseSection
 parent_uid: 0abfab7f-cd01-9a6a-159d-1afa3fd61f99
 title: Lecture 12 Outline
 uid: 3ebfda64-abe4-187a-6497-84708a5f0971
@@ -39,12 +42,12 @@ uid: 3ebfda64-abe4-187a-6497-84708a5f0971
     *   Idea: Drop packets before the queue is full to give senders an early signal.
     *   Requires a measure of the average queue size, q\_avg.
     
-    q\_avg = a\*q\_instant + (1-a)\*q\_avg ; 0 < a << 1
+    q\_avg = a\*q\_instant + (1-a)\*q\_avg ; 0 \< a \<\< 1
     
     *   Drop packets with probability p. What is p?
     
-    q\_avg <= min\_q; p = 0  
-    min\_q < q\_avg <= max\_q; p increases linearly  
+    q\_avg \<= min\_q; p = 0  
+    min\_q \< q\_avg \<= max\_q; p increases linearly  
     q\_avg > max\_q; p = 1
     
     (see slides for diagram)
@@ -127,7 +130,7 @@ uid: 3ebfda64-abe4-187a-6497-84708a5f0971
       email.weight = 1/3
     {{< tdclose >}}
     {{< tdopen >}}
-      <-- normalize weights
+      \<-- normalize weights
     {{< tdclose >}}
     
     {{< trclose >}}
@@ -139,7 +142,7 @@ uid: 3ebfda64-abe4-187a-6497-84708a5f0971
       email.mean = 100
     {{< tdclose >}}
     {{< tdopen >}}
-      <-- mean packet size
+      \<-- mean packet size
     {{< tdclose >}}
     
     {{< trclose >}}

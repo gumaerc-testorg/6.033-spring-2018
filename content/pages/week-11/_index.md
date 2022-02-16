@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 11: Security Part I'
 uid: c7a234fb-b37e-e20a-41b9-581882a0afcd
 ---

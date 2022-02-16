@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 9: Distributed Systems Part II'
+parent_type: CourseSection
 parent_uid: aa415ef7-5752-19ee-a10a-fb9dc2dbef65
 title: Lecture 16 Outline
 uid: c46fe11e-d023-04f5-7535-4315faa42e52

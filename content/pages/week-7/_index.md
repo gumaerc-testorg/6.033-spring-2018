@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 7: Networking Part III'
 uid: 0abfab7f-cd01-9a6a-159d-1afa3fd61f99
 ---

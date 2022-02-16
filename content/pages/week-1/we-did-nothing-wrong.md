@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 1: Operating Systems Part I'
+parent_type: CourseSection
 parent_uid: 70f007d8-4ae8-a0b0-ea4f-00fa8931c506
 title: We Did Nothing Wrong Assignment
 uid: a4a9ba01-b030-11d9-204c-ba12fbc0f60b

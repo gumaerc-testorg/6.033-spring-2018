@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 3: Operating Systems Part III'
 uid: 81056cb9-5545-9139-0582-b2e55570d21a
 ---

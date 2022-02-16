@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 4: Operating Systems Part IV'
+parent_type: CourseSection
 parent_uid: 0466ee2b-5ebb-72d0-ad4f-7badf3b6c645
 title: Eraser Assignment
 uid: 85894c20-22fb-054e-580a-61a43ed2648d

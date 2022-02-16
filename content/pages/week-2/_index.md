@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 2: Operating Systems Part II'
 uid: d23c09ff-9de9-dc9c-b989-05d72c54fd66
 ---

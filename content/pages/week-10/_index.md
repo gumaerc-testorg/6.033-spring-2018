@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 10: Distributed Systems Part III'
 uid: 62a94c78-a524-3c30-60aa-11c27ff81fc7
 ---

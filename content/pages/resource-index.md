@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Resource Index
 uid: 1731a3ca-ac5f-faa7-8e0f-4b3bff50a1cc
 ---
@@ -9,7 +11,7 @@ This resource index gives users access to most of the course resources in a sing
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 INSTRUCTOR INSIGHTS VIDEO
 {{< thclose >}}
 

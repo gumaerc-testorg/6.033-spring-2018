@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 14: Security Part IV'
 uid: a53ea92f-4c3d-bec4-3ffa-e7cf73d6eb29
 ---

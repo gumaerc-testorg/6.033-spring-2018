@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 9: Distributed Systems Part II'
 uid: aa415ef7-5752-19ee-a10a-fb9dc2dbef65
 ---

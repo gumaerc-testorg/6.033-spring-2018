@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 6: Networking Part II'
+parent_type: CourseSection
 parent_uid: 75800336-c3a2-ebee-84a1-8bb126a5a60b
 title: RON Assignment
 uid: c09c7d62-696b-071f-ffb0-88433fa31b32

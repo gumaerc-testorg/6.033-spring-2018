@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 1: Operating Systems Part I'
 uid: 70f007d8-4ae8-a0b0-ea4f-00fa8931c506
 ---

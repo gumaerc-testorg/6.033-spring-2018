@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 10: Distributed Systems Part III'
+parent_type: CourseSection
 parent_uid: 62a94c78-a524-3c30-60aa-11c27ff81fc7
 title: Consistency Guarantees Assignment
 uid: c109e0c5-f4f6-9b52-7d96-b0c911fcd579

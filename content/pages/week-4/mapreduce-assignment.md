@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 4: Operating Systems Part IV'
+parent_type: CourseSection
 parent_uid: 0466ee2b-5ebb-72d0-ad4f-7badf3b6c645
 title: MapReduce Assignment
 uid: 669830ff-a145-23d6-dcee-00927f0c1d39

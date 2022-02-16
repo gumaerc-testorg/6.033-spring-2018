@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 9: Distributed Systems Part II'
+parent_type: CourseSection
 parent_uid: aa415ef7-5752-19ee-a10a-fb9dc2dbef65
 title: Log-Structured File System (LFS) Assignment
 uid: cbb27708-c82e-11a7-a3f9-be7fc848063b

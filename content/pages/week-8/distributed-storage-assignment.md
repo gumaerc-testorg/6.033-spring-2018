@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 8: Distributed Systems Part I'
+parent_type: CourseSection
 parent_uid: 03839826-8d83-1a70-6fad-0af0bfa301d7
 title: Distributed Storage Assignment
 uid: 766d3b59-5f03-a2f4-b1ad-4d15d2427648
