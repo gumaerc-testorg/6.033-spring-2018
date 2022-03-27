@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Critique Assignment 2
 parent_type: CourseSection
+parent_uid: b882122b-9e06-c5d6-61c9-7ce3e39fcf07
 resourcetype: Document
 title: 6.033S18 Rubric for Critique 2017
 uid: 2c8eaac6-31f2-d232-4fa7-7fe0ffa313dd

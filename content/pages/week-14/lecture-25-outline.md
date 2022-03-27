@@ -48,7 +48,9 @@ Disclaimer: This is part of the security section in 6.033. Only use the informat
     *   Goal: Hide some information from a network adversary.
     *   Secure channel model: Encrypt data, so packets look like:
     
+    ```
      Alice ---- \[to:bob|from:alice|XXXXXXXXX \] ---> Bob 
+    ```
     
     *   Adversaries still know that Alice and Bob are communicating, even in this data (because we can't encrypt packet headers). Concerning if, e.g., Alice is communicating with a sensitive website.
     *   Tor will provide anonymity for Alice: Only she will know that she's communicating with a particular server. The server won't even know that Alice is talking to it.
@@ -63,34 +65,39 @@ Disclaimer: This is part of the security section in 6.033. Only use the informat
         *   Alice chooses three (or more) proxies. Say P1, P2, P3.
         *   Traffic to server, S, goes
         
+        ```
         A --> P1 --> P2 --> P3 --> S
+        ```
         
         *   Nodes on this path—"circuit", in Tor parlance—set up the following state. Here, the "circuit ID" is 5.
         
+        ```
         A -- P1 --- P2 ---- P3 --- S
         5:P1 5:A,P2 5:P1,P3 5:P2,S
+        ```
         
         *   State at each node only gives previous and next hop. Allows nodes to send traffic in forward and reverse directions.
-        *   Each node in circuit makes changes to packet header.
-            
-                A --- \[from:A |to:P1|cir:5|XXX\] -->
+        *   Each node in circuit makes changes to packet header.    A --- \[from:A |to:P1|cir:5|XXX\] -->
                 P1 -- \[from:P1|to:P2|cir:5|XXX\] -->
                 P2 -- \[from:P2|to:P3|cir:5|XXX\] -->
                 P3 -- \[from:P3|to:S |XXX\] --------> S
-            
         *   Problem: Adversary that can observe network between A and P1 and between P3 and S will see the same packet data (even if it's encrypted, it didn't change), and know that A is talking to S.
     *   Tor: Network of proxies + encryption.
         *   Each proxy gets its own keypair.
         *   Alice encrypts here data with all three keypairs.
         
+        ```
         PK\_A(circuit:K|PK\_B(circuit:K|PK\_C(circuit:K|XXX)))
+        ```
         
         *   Each proxy strips off a layer of encryption:
         
+        ```
         A --- \[to:P1|from:A |PK\_P1(circuit:K|PK\_P2(circuit:K|PK\_P3(circuit:K|XXX)))\] -->
         P1 -- \[to:P2|from:P1|PK\_P2(circuit:K|PK\_P3(circuit:K|XXX))\] ------------------->
         P2 -- \[to:P3|from:P2|PK\_P3(circuit:K|XXX)\] ------------------------------------>
         P3 -- \[to:S |from:P3|XXX\] -----------------------------------------------------> S
+        ```
         
         *   Layers are stripped off like onions. Tor = The Onion Router.
             *   Tor's encryption method is a bit different, but this is the basic idea.

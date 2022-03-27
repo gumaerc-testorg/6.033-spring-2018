@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Critique Assignment 2
 parent_type: CourseSection
+parent_uid: b882122b-9e06-c5d6-61c9-7ce3e39fcf07
 resourcetype: Document
 title: 6.033S18 MapReduce Critique Worksheet 2017
 uid: 35980840-d44e-cd95-ad8e-ec4fda5f3030

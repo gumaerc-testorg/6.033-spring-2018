@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 6: Networking Part II'
 parent_type: CourseSection
+parent_uid: 75800336-c3a2-ebee-84a1-8bb126a5a60b
 resourcetype: Document
 title: Computer System Engineering, BGP Routing
 uid: fcf7a1c9-0392-0c1f-03b4-85ee143bdeaa

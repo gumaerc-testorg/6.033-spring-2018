@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Design Project
 parent_type: CourseSection
+parent_uid: 73594177-84bd-559f-acb2-aadc9d04abe7
 resourcetype: Document
 title: Computer Systems Engineering, Example Design Project Report FastTrack
 uid: 107a17fe-69eb-b3fb-9b35-60cd823d41a3

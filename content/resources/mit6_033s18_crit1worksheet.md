@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Critique Assignment 1
 parent_type: CourseSection
+parent_uid: 6e76f1ca-8214-a450-c84c-bced0d6be017
 resourcetype: Other
 title: 6.033 DNS Critique Worksheet 2017
 uid: 1795776f-cbb7-0fb1-20df-9c6a06d6c717

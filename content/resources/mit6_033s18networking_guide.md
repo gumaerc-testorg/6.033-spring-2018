@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: DARPA Assignment
 parent_type: CourseSection
+parent_uid: d592637b-bae8-71c6-59ff-f27fb133b62a
 resourcetype: Document
 title: Computer System Engineering, Networking Guide
 uid: b95bf0e7-9ebe-f383-1b68-ec8e4654f152

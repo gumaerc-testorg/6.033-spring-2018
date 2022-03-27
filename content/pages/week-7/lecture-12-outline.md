@@ -96,8 +96,10 @@ uid: 3ebfda64-abe4-187a-6497-84708a5f0971
         *   Take a packet from the xbox queue, then the email queue, then the xbox queue, then the email queue, ...
     *   But, what if packet sizes are different:
     
+    ```
     xbox:  \[ 10  | 10  | 10  | 10 \]
     email: \[ 100 | 100 | 100 | 100 \]
+    ```
     
     With this scheme we'll send 10 bytes of xbox traffic for every  
     100 bytes of email traffic. Not what we want!
@@ -118,8 +120,10 @@ uid: 3ebfda64-abe4-187a-6497-84708a5f0971
         
     *   Example 1:
     
+    ```
     xbox:  \[ 10  | 10  | 10  | 10 \]
     email: \[ 100 | 100 | 100 | 100 \]
+    ```
     
     {{< tableopen >}}
     {{< tropen >}}
@@ -198,8 +202,12 @@ uid: 3ebfda64-abe4-187a-6497-84708a5f0971
     
     *   Example 2:
     
+    ```
     xbox:  \[ 5 | 5 | 10 | 10 \]
     email: \[ 1 | 1 | 1  | 1 \]
+    
+    
+    ```
     
     {{< tableopen >}}
     {{< tropen >}}

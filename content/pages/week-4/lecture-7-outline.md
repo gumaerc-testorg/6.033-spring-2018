@@ -114,13 +114,17 @@ uid: 694987b9-3a9a-8546-0e09-6d00a856d3d0
 9.  Concurrency/Scheduling
     *   Suppose server alternates between CPU and disk:
         
+        ```
          CPU: --A--     --B--     --C--
          Disk:     --A--     --B--     --C--
+        ```
         
     *   Apply concurrency, can get:
         
+        ```
          CPU: --A----B----C-- ...
          Disk:     --A----B-- ..
+        ```
         
     *   This is a scheduling problem: Different orders of execution can lead to different performance.
     *   Example:

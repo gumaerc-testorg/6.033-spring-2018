@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Design Project
 parent_type: CourseSection
+parent_uid: 73594177-84bd-559f-acb2-aadc9d04abe7
 resourcetype: Document
 title: Computer System Engineering, Example Final Design Project Report MASSTTC
 uid: e9aca0e1-9843-4db8-6e55-af17078c27d9

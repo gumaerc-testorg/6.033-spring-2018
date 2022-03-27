@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 8: Distributed Systems Part I'
 parent_type: CourseSection
+parent_uid: 03839826-8d83-1a70-6fad-0af0bfa301d7
 resourcetype: Document
 title: Computer System Engineering, Design Project Presentation - Evaluation tips
 uid: 8c133922-7ec3-a880-031c-26d2ae95dca5

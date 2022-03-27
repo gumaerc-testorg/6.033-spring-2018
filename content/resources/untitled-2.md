@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lecture 11 Outline
 parent_type: CourseSection
+parent_uid: a832ff85-3be6-a295-c5a6-23b102707bb8
 resourcetype: Image
 title: Untitled-2.jpg
 uid: ef6e32ff-946a-9a1d-2442-7e739c1557a8

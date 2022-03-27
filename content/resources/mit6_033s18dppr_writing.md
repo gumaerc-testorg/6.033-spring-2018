@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 3: Operating Systems Part III'
 parent_type: CourseSection
+parent_uid: 81056cb9-5545-9139-0582-b2e55570d21a
 resourcetype: Document
 title: Computer System Engineering, Design Project Preliminary Report Guidelines
 uid: 85b670dd-8de4-dbf6-b591-b48baa5d9789

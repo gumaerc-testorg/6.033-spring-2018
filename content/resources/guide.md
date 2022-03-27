@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Memory Corruption Assignment
 parent_type: CourseSection
+parent_uid: f16c7835-ea51-9931-2f17-c5652cc47102
 resourcetype: Document
 title: Computer System Engineering, Quick Guide
 uid: 82ef662a-803f-2c31-0c03-cc06053da27b

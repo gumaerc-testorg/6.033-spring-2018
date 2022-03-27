@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Critique Assignment 2
 parent_type: CourseSection
+parent_uid: b882122b-9e06-c5d6-61c9-7ce3e39fcf07
 resourcetype: Other
 title: MIT6_033S18_Crit2Worksheet.docx
 uid: 4c7f271a-57d1-1aab-e200-56c36c3143fc

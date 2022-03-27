@@ -81,9 +81,7 @@ uid: a832ff85-3be6-a295-c5a6-23b102707bb8
         Ex:
         
         	          Send    1 2 3 4 5 6  
-                          Receive 1 2   2 2 2
-        
-          
+                          Receive 1 2   2 2 2  
               Sender receives 4 ACKs total with sequence number "2"; infers that packet 3 is lost, immediately retransmits.
         
         *   On fast-retransmit, window decrease is as before: W = W/2.
