@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This contains the instructions and questions for the assignment on "Your
+  Botnet is My Botnet: Analysis of a Botnet Takeover " by Stone-Gross, et al.'
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 13: Security Part III'
@@ -9,7 +11,7 @@ title: Botnets Assignment
 uid: ea13cbf1-25e6-cb4f-d552-53fee6563f83
 ---
 
-Read![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Your Botnet is My Botnet: Analysis of a Botnet Takeover (PDF)](https://seclab.cs.ucsb.edu/media/uploads/papers/torpig.pdf)" by Stone-Gross, et al. You can skim sections 5.2.1–5.2.3.
+Read "[Your Botnet is My Botnet: Analysis of a Botnet Takeover (PDF)](https://seclab.cs.ucsb.edu/media/uploads/papers/torpig.pdf)" by Stone-Gross, et al. You can skim sections 5.2.1–5.2.3.
 
 *   Section 2 explains how Torpig infects a user's machine. After reading this section, you should understand how that happens: how the rootkit gets installed and why its installation remains undetected.
 *   Section 3 explains the technique (domain flux) by which Torpig bots communicate with the C&C (command and control) server. After reading this section, you should understand why it's difficult to simply block bots from accessing the C&C server.

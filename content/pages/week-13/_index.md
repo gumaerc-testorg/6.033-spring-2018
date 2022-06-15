@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section provides materials for Week 13 Security Part III. Materials
+  include lecture outlines, slides, and readings as well as recitation and assignment
+  activities.  '
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Week 13: Security Part III'
@@ -20,11 +23,11 @@ Lecture 23: Network Security and Distributed Denial of Service (DDoS) Attacks
 7.  Attacks on Routers
 8.  Moral of the Story
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-13/lecture-23-outline)
+*   {{% resource_link 4793bb3a-5463-dd86-f8d5-6dc6fdf33ccb "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 23 Slides: Network Security and DDoS Attacks (PDF)]({{< baseurl >}}/resources/mit6_033s18lec23)
+*   {{% resource_link 5d2ed67c-1aa3-722e-e19b-338c75d9b490 "Lecture 23 Slides: Network Security and DDoS Attacks (PDF)" %}}
 
 ### Reading
 
@@ -33,8 +36,8 @@ Lecture 23: Network Security and Distributed Denial of Service (DDoS) Attacks
 Recitation 23: Botnets
 ----------------------
 
-*   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Your Botnet is My Botnet: Analysis of a Botnet Takeover (PDF)](https://sites.cs.ucsb.edu/~chris/research/doc/ccs09_botnet.pdf)" by B. Stone-Gross, et al.
-*   [Botnets Assignment]({{< baseurl >}}/pages/week-13/botnets-assignment)
+*   Read "[Your Botnet is My Botnet: Analysis of a Botnet Takeover (PDF)](https://sites.cs.ucsb.edu/~chris/research/doc/ccs09_botnet.pdf)" by B. Stone-Gross, et al.
+*   {{% resource_link ea13cbf1-25e6-cb4f-d552-53fee6563f83 "Botnets Assignment" %}}
 
 Lecture 24: Bitcoin
 -------------------
@@ -50,11 +53,11 @@ Lecture 24: Bitcoin
 7.  Did we prevent Double-spending?
 8.  Discussion
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-13/lecture-24-outline)
+*   {{% resource_link c4a5c659-5c87-2d2d-140b-12b013818b4a "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 24 Slides: Bitcoin (PDF)]({{< baseurl >}}/resources/mit6_033s18lec24)
+*   {{% resource_link 9352ca27-cdf1-d2f9-7730-83aed59ea572 "Lecture 24 Slides: Bitcoin (PDF)" %}}
 
 ### Reading
 
@@ -63,8 +66,8 @@ Lecture 24: Bitcoin
 Recitation 24: Memory Corruption
 --------------------------------
 
-*   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[SoK: Eternal War in Memory (PDF)](https://people.eecs.berkeley.edu/~dawnsong/papers/Oakland13-SoK-CR.pdf)" by L. Szekeres, M. Payer, T. Wei & D. Song
-*   [Memory Corruption Assignment]({{< baseurl >}}/pages/week-13/memory-corruption-assignment)
+*   Read "[SoK: Eternal War in Memory (PDF)](https://people.eecs.berkeley.edu/~dawnsong/papers/Oakland13-SoK-CR.pdf)" by L. Szekeres, M. Payer, T. Wei & D. Song
+*   {{% resource_link f16c7835-ea51-9931-2f17-c5652cc47102 "Memory Corruption Assignment" %}}
 
 Tutorial 13: \[No Tutorial\]
 ----------------------------

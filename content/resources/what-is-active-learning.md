@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '106'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Instructor Insights
@@ -11,7 +12,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '22'
 title: What is Active Learning
 uid: e63c00a2-e24c-93cc-5223-35b0a5f1e647
 video_files:

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1267'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Instructor Insights
@@ -11,7 +12,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1178'
 title: Supporting Staff as a Group
 uid: e771bd0b-e352-139d-acbb-3a4793142d55
 video_files:

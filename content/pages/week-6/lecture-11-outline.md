@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This contains the content outline for lecture 11.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 6: Networking Part II'
@@ -34,11 +35,11 @@ uid: a832ff85-3be6-a295-c5a6-23b102707bb8
     *   In particular, what if there are multiple senders?
         *   Ex:
         
-        ![Diagram of packet transmission with 2 Mb/s window.]({{< resource_file 4ebf5d77-c8bf-9a53-f40a-94e56925c899 >}})
+        {{< resource 4ebf5d77-c8bf-9a53-f40a-94e56925c899 >}}
         
         *   What should happen? Debatable. Reasonable alternative:
         
-        ![Diagram of packet transmission with 1 Mb/s window.]({{< resource_file ef6e32ff-946a-9a1d-2442-7e739c1557a8 >}})
+        {{< resource ef6e32ff-946a-9a1d-2442-7e739c1557a8 >}}
         
         *   How do S1 and S2 figure this out? What happens if S3 arrives? Or if S1 starts sending less? Etc.
 5.  Congestion Control: Controlling the Source Rate to Achieve High Performance
@@ -81,7 +82,9 @@ uid: a832ff85-3be6-a295-c5a6-23b102707bb8
         Ex:
         
         	          Send    1 2 3 4 5 6  
-                          Receive 1 2   2 2 2  
+                          Receive 1 2   2 2 2
+        
+          
               Sender receives 4 ACKs total with sequence number "2"; infers that packet 3 is lost, immediately retransmits.
         
         *   On fast-retransmit, window decrease is as before: W = W/2.

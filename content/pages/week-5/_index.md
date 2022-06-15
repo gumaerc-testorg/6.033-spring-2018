@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section provides materials for Week 5: Networking Part I. Materials
+  include lecture outlines, slides, and readings as well as recitation and assignment
+  activities.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Week 5: Networking Part I'
@@ -21,11 +24,11 @@ Lecture 8: Introduction to Networking
 8.  So What's New on the Internet?
 9.  Recurring Themes
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-5/lecture-8-outline)
+*   {{% resource_link 89e1e54e-a14e-f974-0668-9840928834a2 "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 8 Slides: Introduction to Networking (PDF)]({{< baseurl >}}/resources/mit6_033s18lec8)
+*   {{% resource_link 9e5a07cb-c72a-01ef-b233-c667d45854d4 "Lecture 8 Slides: Introduction to Networking (PDF)" %}}
 
 ### Reading
 
@@ -34,8 +37,8 @@ Lecture 8: Introduction to Networking
 Recitation 8: The Design Philosophy of the DARPA Internet Protocols
 -------------------------------------------------------------------
 
-*   Read "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Design Philosophy of the DARPA Internet Protocols (PDF)](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf)" by D. Clark. (Skip Section 10)
-*   [DARPA Assignment]({{< baseurl >}}/pages/week-5/darpa-assignment)
+*   Read "[The Design Philosophy of the DARPA Internet Protocols (PDF)](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf)" by D. Clark. (Skip Section 10)
+*   {{% resource_link d592637b-bae8-71c6-59ff-f27fb133b62a "DARPA Assignment" %}}
 
 Hands-on Assignment 4: Reliable Transport
 -----------------------------------------
@@ -54,11 +57,11 @@ Lecture 9: Routing
 5.  Distance-vector Routing
 6.  Summary
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-5/lecture-9-outline)
+*   {{% resource_link 82d38378-244b-6686-4fad-14c082cb5df9 "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 9 Slides: Routing (PDF)]({{< baseurl >}}/resources/mit6_033s18lec9)
+*   {{% resource_link 167d8ab5-b4e6-d60f-2767-75bf678cd76c "Lecture 9 Slides: Routing (PDF)" %}}
 
 ### Reading
 
@@ -67,8 +70,8 @@ Lecture 9: Routing
 Recitation 9: Landmark Routing
 ------------------------------
 
-*   Read the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Landmark Hierarchy: An New Hierarchy for Routing Very Large Networks (PDF)](http://www.cs.cornell.edu/people/francis/p35-tsuchiya.pdf)" by P. Tsuchiya
-*   [Landmark Routing Assignment]({{< baseurl >}}/pages/week-5/landmark-routing-assignment)
+*   Read the "[The Landmark Hierarchy: An New Hierarchy for Routing Very Large Networks (PDF)](http://www.cs.cornell.edu/people/francis/p35-tsuchiya.pdf)" by P. Tsuchiya
+*   {{% resource_link 88350e45-d2ab-eb7d-9d77-bcfb2ecec721 "Landmark Routing Assignment" %}}
 
 Tutorial 5: Collaboration & Figures
 -----------------------------------

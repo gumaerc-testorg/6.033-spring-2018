@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This contains the instructions and questions for the assignment on "The
+  Landmark Hierarchy: An New Hierarchy for Routing Very Large Networks" by Paul Tsuchiya.'
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 5: Networking Part I'
@@ -9,7 +11,7 @@ title: Landmark Routing Assignment
 uid: 88350e45-d2ab-eb7d-9d77-bcfb2ecec721
 ---
 
-Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Landmark Hierarchy: An New Hierarchy for Routing Very Large Networks (PDF)](http://www.cs.cornell.edu/people/francis/p35-tsuchiya.pdf)" by Paul Tsuchiya. This paper was written in 1988. In 1988, routing algorithms such as link-state and distance-vector (which you'll see in the preceding lecture) already existed. The Internet also existed, and was beginning to grow, but was not the network it is today.
+Read "[The Landmark Hierarchy: An New Hierarchy for Routing Very Large Networks (PDF)](http://www.cs.cornell.edu/people/francis/p35-tsuchiya.pdf)" by Paul Tsuchiya. This paper was written in 1988. In 1988, routing algorithms such as link-state and distance-vector (which you'll see in the preceding lecture) already existed. The Internet also existed, and was beginning to grow, but was not the network it is today.
 
 To help you as you read:
 

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Assignment questions relating to the "We Did Nothing Wrong: Why Software
+  Quality Matters" paper by Deborah Gage and John McCormick.'
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 1: Operating Systems Part I'

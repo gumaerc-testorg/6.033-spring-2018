@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section provides materials for Week 8: Distributed Systems Part
+  I. Materials include lecture outlines, slides, and readings as well as recitation
+  and assignment activities.  '
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Week 8: Distributed Systems Part I'
@@ -19,11 +22,11 @@ Lecture 14: Fault Tolerance: Reliability via Replication
 6.  Whole-Disk Failures
 7.  Your Future
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-8/lecture-14-outline)
+*   {{% resource_link e41330e2-fb4f-3118-bfb7-88e686385fc7 "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 14 Slides: Fault Tolerance: Reliability via Replication (PDF)]({{< baseurl >}}/resources/mit6_033s18lec14)
+*   {{% resource_link 8eb16d36-28bb-d77e-e7e8-471b9871ec09 "Lecture 14 Slides: Fault Tolerance: Reliability via Replication (PDF)" %}}
 
 ### Reading
 
@@ -33,7 +36,7 @@ Recitation 14: Distributed Storage
 ----------------------------------
 
 *   Read "[The Google File System](https://ai.google/research/pubs/pub51)" by S. Ghemawat, H. Gobioff & S-T Leung
-*   [Distributed Storage Assignment]({{< baseurl >}}/pages/week-8/distributed-storage-assignment)
+*   {{% resource_link 766d3b59-5f03-a2f4-b1ad-4d15d2427648 "Distributed Storage Assignment" %}}
 
 Lecture 15: Fault Tolerance: Introduction to Transactions
 ---------------------------------------------------------
@@ -52,11 +55,11 @@ Lecture 15: Fault Tolerance: Introduction to Transactions
 10.  Isolation
 11.  The Future
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-8/lecture-15-outline)
+*   {{% resource_link f982d841-2b34-3c22-7262-04fc7b163732 "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 15 Slides: Fault Tolerance: Introduction to Transactions (PDF)]({{< baseurl >}}/resources/mit6_033s18lec15)
+*   {{% resource_link df152640-8e3e-c6f7-e43a-adfa1ce5f944 "Lecture 15 Slides: Fault Tolerance: Introduction to Transactions (PDF)" %}}
 
 ### Reading
 
@@ -73,9 +76,9 @@ Quiz 1 will last two hours. The quiz will cover all the material up to and inclu
 Tutorial 8: Design Project Presentation
 ---------------------------------------
 
-Your presentation should reflect the feedback you got on your preliminary report; feedback on your presentation should inform your final report. Your presentation will focus on any changes you have made since the preliminary report, rather than re-capping the entire system. See the [Design Project]({{< baseurl >}}/pages/design-project) section for more information.
+Your presentation should reflect the feedback you got on your preliminary report; feedback on your presentation should inform your final report. Your presentation will focus on any changes you have made since the preliminary report, rather than re-capping the entire system. See the {{% resource_link 73594177-84bd-559f-acb2-aadc9d04abe7 "Design Project" %}} section for more information.
 
 Design Project Pressentation (DPP)
 ----------------------------------
 
-*   Assigned: [Design Project Presentation (PDF)]({{< baseurl >}}/resources/mit6_033s18dp_pres), [Design Project Presentation Evaluation Ideas (PDF)]({{< baseurl >}}/resources/mit6_033s18dp_eval)
+*   Assigned: {{% resource_link 5b33bd84-f663-1064-74a0-aa71928bbcce "Design Project Presentation (PDF)" %}}, {{% resource_link 8c133922-7ec3-a880-031c-26d2ae95dca5 "Design Project Presentation Evaluation Ideas (PDF)" %}}

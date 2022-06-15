@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This contains the instructions and questions for the Eraser assignment.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 4: Operating Systems Part IV'
@@ -11,7 +12,7 @@ uid: 85894c20-22fb-054e-580a-61a43ed2648d
 
 Before reading the Eraser paper, refresh your memory on what race conditions are and the troubles that they can cause by revisiting sections 5.2.2, 5.2.3, and 5.2.4 of the textbook.
 
-Then, read "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Eraser: A Dynamic Data Race Detector for Multithreaded Programs (PDF")](http://www.cs.ucsd.edu/~savage/papers/Tocs97.pdf) by S. Savage, M. Burrows, G. Nelson, P. Sobalvarro & T. Anderson.
+Then, read "[Eraser: A Dynamic Data Race Detector for Multithreaded Programs (PDF")](http://www.cs.ucsd.edu/~savage/papers/Tocs97.pdf) by S. Savage, M. Burrows, G. Nelson, P. Sobalvarro & T. Anderson.
 
 To help you as you read:
 

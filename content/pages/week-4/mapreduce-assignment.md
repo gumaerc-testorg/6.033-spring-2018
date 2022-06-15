@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This contains the instructions and questions for the MapReduce assignment.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 4: Operating Systems Part IV'
@@ -11,7 +12,7 @@ uid: 669830ff-a145-23d6-dcee-00927f0c1d39
 
 Preparation for MapReduce recitation
 
-*   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[MapReduce (PDF)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)" by J. Dean & S. Ghemawat.
+*   Read "[MapReduce (PDF)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)" by J. Dean & S. Ghemawat.
 *   Skip sections 4 and 7
 
 This paper was published at the biennial Usenix Symposium on Operating Systems Design and Implementation (OSDI) in 2004, one of the premier conferences in computer systems. (OSDI alternates with the equally prestigious ACM Symposium on Operating Systems Principles (SOSP), at which appeared Eraser, the paper you already read in a previous recitation.)

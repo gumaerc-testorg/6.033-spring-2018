@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1177'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Instructor Insights
@@ -11,7 +12,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1117'
 title: Supporting Staff as Individuals
 uid: 4c860345-1055-a405-7e74-e6bb2895d799
 video_files:

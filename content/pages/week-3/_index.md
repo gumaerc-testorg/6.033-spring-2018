@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section provides materials for Week 3: Operating Systems Part III.
+  Materials include lecture outlines, slides, and readings as well as recitation and
+  assignment activities.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Week 3: Operating Systems Part III'
@@ -21,11 +24,11 @@ Lecture 4: Bounded Buffers + Locks
 8.  Example: Locks for File Systems
 9.  Implementing Locks
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-3/lecture-4-outline)
+*   {{% resource_link 4bd4d775-885a-2661-47dc-64a6eba38676 "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 4 Slides: Bounded Buffers + Locks (PDF)]({{< baseurl >}}/resources/mit6_033s18lec4)
+*   {{% resource_link 6c21c6d5-0181-dc34-06c1-e988f60b8e24 "Lecture 4 Slides: Bounded Buffers + Locks (PDF)" %}}
 
 ### Reading
 
@@ -43,11 +46,11 @@ Lecture 5: Threads
 5.  Preemption
 6.  Reflection/Summary
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-3/lecture-5-outline)
+*   {{% resource_link 05b631a6-ef1c-2f86-b877-12c4e1b89310 "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 5 Slides: Threads (PDF)]({{< baseurl >}}/resources/mit6_033s18lec5)
+*   {{% resource_link d536852c-8694-227d-8a22-0b4f55905207 "Lecture 5 Slides: Threads (PDF)" %}}
 
 ### Reading
 
@@ -56,17 +59,17 @@ Lecture 5: Threads
 Recitation 5: UNIX
 ------------------
 
-*   Read "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Unix Time-Sharing System (PDF)](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by D. M. Ritchie & K. Thompson. Start with Section 5
-*   [UNIX Assignment Part 2]({{< baseurl >}}/pages/week-3/unix-assignment-part-2)
+*   Read "[The Unix Time-Sharing System (PDF)](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by D. M. Ritchie & K. Thompson. Start with Section 5
+*   {{% resource_link 58979a0d-36a2-6cf8-2be3-a2f5313e3250 "UNIX Assignment Part 2" %}}
 
 Tutorial 3: Design Project Discussion
 -------------------------------------
 
-Read the [Design Project Overview (PDF)]({{< baseurl >}}/resources/mit6_033s18dp), [Design Project FAQ (PDF)]({{< baseurl >}}/resources/mit6_033s18dp_faq), and [Design Project Errata (PDF)]({{< baseurl >}}/resources/mit6_033s18dp_errata).
+Read the {{% resource_link d0c9f5a9-5235-3e8d-1757-fbb2c66bef51 "Design Project Overview (PDF)" %}}, {{% resource_link 64c76f72-6de3-a311-cd25-009c4ea1e872 "Design Project FAQ (PDF)" %}}, and {{% resource_link 4459543a-5a16-3192-772e-26bf814e1461 "Design Project Errata (PDF)" %}}.
 
-The primary assignment in 6.033 is the design project. This project is where the students get to design their own system, which is the primary objective of this course. See the [Design Project]({{< baseurl >}}/pages/design-project) section for detailed information.
+The primary assignment in 6.033 is the design project. This project is where the students get to design their own system, which is the primary objective of this course. See the {{% resource_link 73594177-84bd-559f-acb2-aadc9d04abe7 "Design Project" %}} section for detailed information.
 
 Design Project Preliminary Report (DPPR) Assignment
 ---------------------------------------------------
 
-*   Assigned: [Design Project Preliminary Report (PDF)]({{< baseurl >}}/resources/mit6_033s18dppr_writing)
+*   Assigned: {{% resource_link 85b670dd-8de4-dbf6-b591-b48baa5d9789 "Design Project Preliminary Report (PDF)" %}}

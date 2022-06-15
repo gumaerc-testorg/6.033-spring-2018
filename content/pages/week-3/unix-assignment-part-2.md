@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This contains the instructions and questions for the UNIX assignment
+  2.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 3: Operating Systems Part III'
@@ -9,7 +11,7 @@ title: UNIX Assignment Part 2
 uid: 58979a0d-36a2-6cf8-2be3-a2f5313e3250
 ---
 
-Read "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The UNIX Time-Sharing System (PDF)](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by Dennis Ritchie and Ken Thompson. Recitation 5 will focus on the last half of the paper (starting with section 5).
+Read "[The UNIX Time-Sharing System (PDF)](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by Dennis Ritchie and Ken Thompson. Recitation 5 will focus on the last half of the paper (starting with section 5).
 
 After reading section 5, you should understand the basics of processes in UNIX (e.g., how fork() works, how memory is shared, how processes communicate). After reading section 6, you should understand the basics of the shell. For instance, you should be able to describe what happens if you type `sh` into the UNIX shell (how many processes would be running?). Sections 7–10 wrap up the authors' discussions on UNIX.
 

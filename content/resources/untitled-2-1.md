@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-033-computer-system-engineering-spring-2018/46892ea3a63a6724e3aa77ee0b0114a2_Untitled-2.jpg
+file: /courses/6-033-computer-system-engineering-spring-2018/46892ea3a63a6724e3aa77ee0b0114a2_Untitled-2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

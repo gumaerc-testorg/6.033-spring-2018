@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-033-computer-system-engineering-spring-2018/85a82c1bd74e0931df5036a9cbc97de6_MIT6_033S18dpr.pdf
+file: /courses/6-033-computer-system-engineering-spring-2018/85a82c1bd74e0931df5036a9cbc97de6_MIT6_033S18dpr.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

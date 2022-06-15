@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2647'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Instructor Insights
@@ -11,7 +12,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1675'
 title: Acting Things Out
 uid: fec8db2d-f75c-585a-9d97-6611ecf7d33a
 video_files:

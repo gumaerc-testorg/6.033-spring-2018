@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1674'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Instructor Insights
@@ -11,7 +12,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1595'
 title: Drawing Pictures
 uid: 5dc920bd-bdee-9276-cae9-210b8529f6be
 video_files:

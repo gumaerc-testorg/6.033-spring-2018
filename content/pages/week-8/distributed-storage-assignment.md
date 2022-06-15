@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This contains the instructions and questions for the distributed storage
+  assignment on the Google File System.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 8: Distributed Systems Part I'

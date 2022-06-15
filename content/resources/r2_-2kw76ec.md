@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-033-computer-system-engineering-spring-2018/ff01bbc635af3038c36a6db86cef27dc_r2_-2KW76ec.srt
+file: /courses/6-033-computer-system-engineering-spring-2018/ff01bbc635af3038c36a6db86cef27dc_r2_-2KW76ec.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

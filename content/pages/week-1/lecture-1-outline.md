@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Detailed outline of lecture 1 materials.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 1: Operating Systems Part I'

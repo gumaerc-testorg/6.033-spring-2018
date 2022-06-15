@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This project is where the students get to design their own system, which
+  is the primary objective of this course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Design Project
@@ -28,28 +30,28 @@ The **Peer Review** will be graded by your Tutorial Instructor and Teaching Assi
 {{< anchor "deliverables" >}}{{< /anchor >}}Deliverables
 --------------------------------------------------------
 
-Below are all DP deliverables and related material. The dates deliverables are assigned and due are available on the [course calendar]({{< baseurl >}}/pages/calendar).
+Below are all DP deliverables and related material. The dates deliverables are assigned and due are available on the {{% resource_link dcd25f88-acf3-f72b-a2ad-5aae10daef4f "course calendar" %}}.
 
-*   [Design Project Description (PDF)]({{< baseurl >}}/resources/mit6_033s18dp)
-*   [Design Project FAQ (PDF)]({{< baseurl >}}/resources/mit6_033s18dp_faq) 
-*   [Design Project Errata (PDF)]({{< baseurl >}}/resources/mit6_033s18dp_errata)
-*   [Preliminary Report Assignment (PDF)]({{< baseurl >}}/resources/mit6_033s18dppr_writing)
-*   [Presentation Assignment (PDF)]({{< baseurl >}}/resources/mit6_033s18dp_pres) ([Evaluation Tips (PDF)]({{< baseurl >}}/resources/mit6_033s18dp_eval))
-*   [Final Report Assignment (PDF)]({{< baseurl >}}/resources/mit6_033s18dpr)
-*   [Final Report Rubric (PDF)]({{< baseurl >}}/resources/mit6_033s18dpr_rubric)
-*   [Peer Review Assignment (PDF)]({{< baseurl >}}/resources/mit6_033s18_dp_peerreview)
+*   {{% resource_link d0c9f5a9-5235-3e8d-1757-fbb2c66bef51 "Design Project Description (PDF)" %}}
+*   {{% resource_link 64c76f72-6de3-a311-cd25-009c4ea1e872 "Design Project FAQ (PDF)" %}} 
+*   {{% resource_link 4459543a-5a16-3192-772e-26bf814e1461 "Design Project Errata (PDF)" %}}
+*   {{% resource_link 85b670dd-8de4-dbf6-b591-b48baa5d9789 "Preliminary Report Assignment (PDF)" %}}
+*   {{% resource_link 5b33bd84-f663-1064-74a0-aa71928bbcce "Presentation Assignment (PDF)" %}} ({{% resource_link 8c133922-7ec3-a880-031c-26d2ae95dca5 "Evaluation Tips (PDF)" %}})
+*   {{% resource_link 85a82c1b-d74e-0931-df50-36a9cbc97de6 "Final Report Assignment (PDF)" %}}
+*   {{% resource_link df7097db-2a37-53b9-06cd-51adc0ef46a5 "Final Report Rubric (PDF)" %}}
+*   {{% resource_link 9bd90745-a042-ceba-8945-da6d7daceb49 "Peer Review Assignment (PDF)" %}}
 
 Examples of Past Design Projects
 --------------------------------
 
-These writing examples were created by MIT students taking 6.033 in a previous iteration of the course. For an overview of the assignment, please view the [Relevant DP Spec (PDF)]({{< baseurl >}}/resources/mit6_033s18dp-2017).
+These writing examples were created by MIT students taking 6.033 in a previous iteration of the course. For an overview of the assignment, please view the {{% resource_link 06499806-69a7-eb16-b00f-5ebedfd0215a "Relevant DP Spec (PDF)" %}}.
 
 DP Preliminary Report
 
-*   [Fast Track Preliminary Report (PDF)]({{< baseurl >}}/resources/mit6_033s18fasttrackdppr)
-*   [MassRTTC Preliminary Report (PDF)]({{< baseurl >}}/resources/mit6_033s18massrttc_dppr)
+*   {{% resource_link e1f355b7-cede-384a-db38-09486938e9aa "Fast Track Preliminary Report (PDF)" %}}
+*   {{% resource_link c826e009-4b14-7e04-9c30-dda39a35e0fa "MassRTTC Preliminary Report (PDF)" %}}
 
 DP Final Report
 
-*   [Fast Track Final Report (PDF)]({{< baseurl >}}/resources/mit6_033s18fasttrack_dpr)
-*   [MassRTTC Final Report (PDF)]({{< baseurl >}}/resources/mit6_033s18massrttc_dpr)
+*   {{% resource_link 107a17fe-69eb-b3fb-9b35-60cd823d41a3 "Fast Track Final Report (PDF)" %}}
+*   {{% resource_link e9aca0e1-9843-4db8-6e55-af17078c27d9 "MassRTTC Final Report (PDF)" %}}

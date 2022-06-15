@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This contains the instructions and questions for the assignment on "Data
+  Center TCP (DCTCP)" by Mohammad Alizadeh, Albert Greenberg, et al.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 7: Networking Part III'
@@ -9,7 +11,7 @@ title: DCTCP Assignment
 uid: 72f0d675-cb14-ba19-4c5d-7a81051af829
 ---
 
-*   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Data Center TCP (DCTCP) (PDF - 2.98MB)](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)" by Mohammad Alizadeh, Albert Greenberg, et al.
+*   Read "[Data Center TCP (DCTCP) (PDF - 2.98MB)](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)" by Mohammad Alizadeh, Albert Greenberg, et al.
 *   Skip section 3.3 except for the final paragraph, which gives an estimate for the parameter _K_.
 *   Skim section 4 (Results)
 *   Closely observe figures 15 and 19, which show the queue occupancy as a function of time, and number of sources.

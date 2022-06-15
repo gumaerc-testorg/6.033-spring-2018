@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This contains the content outline for lecture 18.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 10: Distributed Systems Part III'
