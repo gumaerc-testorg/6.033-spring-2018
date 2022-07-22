@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Conflict graph between T1, T2, and T3.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 17 Outline
 parent_type: CourseSection

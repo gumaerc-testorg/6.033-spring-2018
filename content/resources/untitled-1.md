@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Diagram of connections between providers, peers, and clients.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 10 Outline
 parent_type: CourseSection

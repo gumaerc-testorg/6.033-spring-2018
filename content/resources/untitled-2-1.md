@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Diagram showing connection between client A and client S through nodes.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 13 Outline
 parent_type: CourseSection

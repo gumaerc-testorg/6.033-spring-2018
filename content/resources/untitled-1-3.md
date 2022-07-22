@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Diagram of a blockchain fork.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 24 Outline
 parent_type: CourseSection

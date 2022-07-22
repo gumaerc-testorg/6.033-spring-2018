@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-033-computer-system-engineering-spring-2018/e1f355b7cede384adb3809486938e9aa_MIT6_033S18fasttrackdppr.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Design Project
 parent_type: CourseSection

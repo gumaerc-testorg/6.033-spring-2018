@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Diagram of packet transmission with 1 Mb/s window.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture 11 Outline
 parent_type: CourseSection

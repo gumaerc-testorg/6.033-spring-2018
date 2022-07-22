@@ -5,6 +5,7 @@ file: /courses/6-033-computer-system-engineering-spring-2018/1795776fcbb70fb120d
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Critique Assignment 1
 parent_type: CourseSection

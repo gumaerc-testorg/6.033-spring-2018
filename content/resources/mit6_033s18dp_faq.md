@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-033-computer-system-engineering-spring-2018/64c76f726de3a311cd25009c4ea1e872_MIT6_033S18dp_faq.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Week 3: Operating Systems Part III'
 parent_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/6-033-computer-system-engineering-spring-2018/82ef662a803f2c310c0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Memory Corruption Assignment
 parent_type: CourseSection

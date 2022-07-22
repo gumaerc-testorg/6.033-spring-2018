@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-033-computer-system-engineering-spring-2018/df7097db2a3753b906cd51adc0ef46a5_MIT6_033S18dpr_rubric.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Week 10: Distributed Systems Part III'
 parent_type: CourseSection

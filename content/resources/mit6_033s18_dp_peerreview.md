@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-033-computer-system-engineering-spring-2018/9bd90745a042ceba8945da6d7daceb49_MIT6_033S18_DP_PeerReview.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Week 11: Security Part I'
 parent_type: CourseSection

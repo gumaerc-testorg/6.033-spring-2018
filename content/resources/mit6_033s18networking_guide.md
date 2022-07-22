@@ -5,6 +5,7 @@ file: /courses/6-033-computer-system-engineering-spring-2018/b95bf0e79ebef3831b6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: DARPA Assignment
 parent_type: CourseSection
