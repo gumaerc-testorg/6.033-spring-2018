@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This contains the instructions and questions for the assignment on "Why
+  Cryptosystems Fail" by Ross Anderson.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 12: Security Part II'
+parent_type: CourseSection
 parent_uid: 463ad0d7-960d-0f16-fac5-ad1eab91ef20
 title: Why Cryptosystems Fail Assignment
 uid: d85bd78d-4139-ffc6-6099-38511ef16101
 ---
 
-Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Why Cryptosystems Fail (PDF)](https://www.cl.cam.ac.uk/~rja14/Papers/wcf.pdf)" by Ross Anderson. This paper is about a philosophy of cryptosystem design, with a focus on their use in financial institutions and particularly in ATM (Automated Teller Machine) networks.
+Read "[Why Cryptosystems Fail (PDF)](https://www.cl.cam.ac.uk/~rja14/Papers/wcf.pdf)" by Ross Anderson. This paper is about a philosophy of cryptosystem design, with a focus on their use in financial institutions and particularly in ATM (Automated Teller Machine) networks.
 
 *   Skim the abstract, introduction, and conclusion first, because they will help you to focus on the parts of the paper that support the author's main claims.
 *   Section 3 is devoted to examples of ways in which ATM networks could fail or have failed. This part of the paper is very entertaining, but it can be difficult to keep the big picture in mind while reading about the individual exploits and problems. Pay attention to the section headings (which you may wish to skim before diving into the text) in order to keep your bearings. For each incident, before moving on, spend a few moments thinking about the lessons that it teaches and how the problem could have been avoided.

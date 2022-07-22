@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This contains the instructions and questions for the Raft assignment
+  on "In Search of an Understandable Consensus Algorithm" by Diego Ongaro and John
+  Ousterhout.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 11: Security Part I'
+parent_type: CourseSection
 parent_uid: c7a234fb-b37e-e20a-41b9-581882a0afcd
 title: Raft Assignment
 uid: 664be575-c00e-8b73-1e97-37cd0a323c01
 ---
 
-For this recitation, you'll be reading "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[In Search of an Understandable Consensus Algorithm (PDF)](https://raft.github.io/raft.pdf)" by Diego Ongaro and John Ousterhout. This paper describes Raft, an algorithm for achieving distributed consensus. The paper contrasts Raft to an algorithm called Paxos: You do **not** need to know anything about Paxos to read this paper. Raft was designed to be more understandable than Paxos.
+For this recitation, you'll be reading "[In Search of an Understandable Consensus Algorithm (PDF)](https://raft.github.io/raft.pdf)" by Diego Ongaro and John Ousterhout. This paper describes Raft, an algorithm for achieving distributed consensus. The paper contrasts Raft to an algorithm called Paxos: You do **not** need to know anything about Paxos to read this paper. Raft was designed to be more understandable than Paxos.
 
 Before reading the paper, check out two very helpful websites, which have some useful visualizations:
 

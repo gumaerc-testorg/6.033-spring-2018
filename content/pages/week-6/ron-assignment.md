@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This contains the instructions and questions for the Resilient Overlay
+  Networks (RON) assignment.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 6: Networking Part II'
+parent_type: CourseSection
 parent_uid: 75800336-c3a2-ebee-84a1-8bb126a5a60b
 title: RON Assignment
 uid: c09c7d62-696b-071f-ffb0-88433fa31b32
 ---
 
-For this recitation, you'll be reading most of ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Resilient Overlay Networks (PDF)](http://nms.lcs.mit.edu/papers/ron-sosp2001.pdf)" by David Anderson, Hari Balakishnan, Frans Kaashoek, and Robert Morris. This paper explains how to build an overlay network on top of the existing Internet that has better properties or other features. Many Internet applications, such as peer-to-peer applications are built as overlay networks.
+For this recitation, you'll be reading most of "[Resilient Overlay Networks (PDF)](http://nms.lcs.mit.edu/papers/ron-sosp2001.pdf)" by David Anderson, Hari Balakishnan, Frans Kaashoek, and Robert Morris. This paper explains how to build an overlay network on top of the existing Internet that has better properties or other features. Many Internet applications, such as peer-to-peer applications are built as overlay networks.
 
 To guide you as you read:
 

@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This contains the content outline for lecture 14.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 8: Distributed Systems Part I'
+parent_type: CourseSection
 parent_uid: 03839826-8d83-1a70-6fad-0af0bfa301d7
 title: Lecture 14 Outline
 uid: e41330e2-fb4f-3118-bfb7-88e686385fc7

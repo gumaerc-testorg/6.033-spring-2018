@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This contains the instructions and questions for the assignment on "Log-Structured
+  File Systems" by R. & A. Arpaci-Dusseau.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 9: Distributed Systems Part II'
+parent_type: CourseSection
 parent_uid: aa415ef7-5752-19ee-a10a-fb9dc2dbef65
 title: Log-Structured File System (LFS) Assignment
 uid: cbb27708-c82e-11a7-a3f9-be7fc848063b
 ---
 
-Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Log-Structured File Systems (PDF)](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)" by R. & A. Arpaci-Dusseau
+Read "[Log-Structured File Systems (PDF)](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)" by R. & A. Arpaci-Dusseau
 
 The Log-Structured File System departs dramatically from the UNIX File System and proposes, instead, a file system in which all of the data is stored in _an append-only log_, that is, a flat file that can be modified only by having data added to the end of it. In Chapter 9, we also hear about logs, specifically how they help achieve _reliability_. For today's reading, the purpose of the log is to achieve good _performance_.
 

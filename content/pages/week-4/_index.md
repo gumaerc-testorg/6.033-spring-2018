@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section provides materials for Week 4: Operating Systems Part IV.
+  Materials include lecture outlines, slides, and readings as well as recitation and
+  assignment activities.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 4: Operating Systems Part IV'
 uid: 0466ee2b-5ebb-72d0-ad4f-7badf3b6c645
 ---
@@ -17,11 +22,11 @@ Lecture 6: Operating Systems Structure + Virtual Machines
 6.  Microkernels: Alternative to Monolithic Kernels
 7.  Summary
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-4/lecture-6-outline)
+*   {{% resource_link 0a3d288e-4cbc-112c-d90a-71a2c259a60e "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 6 Slides: Operating Systems Structure + Virtual Machines (PDF)]({{< baseurl >}}/resources/mit6_033s18lec6)
+*   {{% resource_link d52fbcc8-c6c3-d30c-6272-c3d414618111 "Lecture 6 Slides: Operating Systems Structure + Virtual Machines (PDF)" %}}
 
 ### Reading
 
@@ -31,8 +36,8 @@ Recitation 6: Eraser
 --------------------
 
 *   Before reading the Eraser paper, refresh your memory on what race conditions are and the troubles that they can cause by revisiting sections 5.2.2, 5.2.3, and 5.2.4 of the textbook.
-*   Read "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Eraser: A Dynamic Data Race Detector for Multithreaded Programs (PDF)](http://www.cs.ucsd.edu/~savage/papers/Tocs97.pdf)" by S. Savage, M. Burrows, G. Nelson, P. Sobalvarro & T. Anderson
-*   [Eraser Assignment]({{< baseurl >}}/pages/week-4/eraser-assignment)
+*   Read "[Eraser: A Dynamic Data Race Detector for Multithreaded Programs (PDF)](http://www.cs.ucsd.edu/~savage/papers/Tocs97.pdf)" by S. Savage, M. Burrows, G. Nelson, P. Sobalvarro & T. Anderson
+*   {{% resource_link 85894c20-22fb-054e-580a-61a43ed2648d "Eraser Assignment" %}}
 
 Lecture 7: Performance
 ----------------------
@@ -52,11 +57,11 @@ Lecture 7: Performance
 11.  Summary
 12.  Useful Numbers for Your Day-to-Day Lives
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-4/lecture-7-outline)
+*   {{% resource_link 694987b9-3a9a-8546-0e09-6d00a856d3d0 "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 7 Slides: Performance (PDF)]({{< baseurl >}}/resources/mit6_033s18lec7)
+*   {{% resource_link 8b4a9727-6b4d-8408-a957-98f794d9ac16 "Lecture 7 Slides: Performance (PDF)" %}}
 
 ### Reading
 
@@ -65,8 +70,8 @@ Lecture 7: Performance
 Recitation 7: MapReduce
 -----------------------
 
-*   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Map Reduce: Simplified Data Processing on Large Clusters (PDF)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)" by J. Dean & S. Ghemawat
-*   [MapReduce Assignment]({{< baseurl >}}/pages/week-4/mapreduce-assignment)
+*   Read "[Map Reduce: Simplified Data Processing on Large Clusters (PDF)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)" by J. Dean & S. Ghemawat
+*   {{% resource_link 669830ff-a145-23d6-dcee-00927f0c1d39 "MapReduce Assignment" %}}
 
 Hands-on Assignment 3: MapReduce
 --------------------------------
@@ -81,4 +86,4 @@ As you know, in 6.033 you'll complete a series of three critiques, designed to b
 System Critique Assignment 2: MapReduce
 ---------------------------------------
 
-*   Assigned: [Critique Assignment 2]({{< baseurl >}}/pages/week-4/critique-assignment-2)
+*   Assigned: {{% resource_link b882122b-9e06-c5d6-61c9-7ce3e39fcf07 "Critique Assignment 2" %}}

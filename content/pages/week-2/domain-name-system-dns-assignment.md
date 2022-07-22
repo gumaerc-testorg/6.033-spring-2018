@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This contains the instructions and questions for the Domain Name System
+  (DNS) assignment.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 2: Operating Systems Part II'
+parent_type: CourseSection
 parent_uid: d23c09ff-9de9-dc9c-b989-05d72c54fd66
 title: Domain Name System (DNS) Assignment
 uid: 296c66ea-a30e-98fb-be04-74d631d544ec

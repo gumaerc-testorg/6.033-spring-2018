@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section provides materials for Week 1: Operating Systems Part I
+  . Materials include lecture outlines, slides, and readings as well as recitation
+  and assignment activities.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 1: Operating Systems Part I'
 uid: 70f007d8-4ae8-a0b0-ea4f-00fa8931c506
 ---
@@ -20,11 +25,11 @@ Lecture 1: Coping with Complexity: Enforced Modularity via Client/server Organiz
 4.  Enforced Modularity
 5.  Other Goals
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-1/lecture-1-outline)
+*   {{% resource_link 6f82dc95-1f47-0c80-136f-e66e5ce7c473 "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 1 Slides: Coping with Complexity (PDF)]({{< baseurl >}}/resources/mit6_033s18lec1)
+*   {{% resource_link aff13f0f-0cef-504f-9e6a-f139d166d0b1 "Lecture 1 Slides: Coping with Complexity (PDF)" %}}
 
 ### Reading
 
@@ -34,7 +39,7 @@ Recitation 2: We Did Nothing Wrong
 ----------------------------------
 
 *   Read "[We Did Nothing Wrong: Why Software Quality Matters](http://www.baselinemag.com/c/a/Projects-Processes/We-Did-Nothing-Wrong)" by D. Gage & J. McCormick in _Baseline Magazine_ on March 4, 2004
-*   [We Did Nothing Wrong Assignment]({{< baseurl >}}/pages/week-1/we-did-nothing-wrong)
+*   {{% resource_link a4a9ba01-b030-11d9-204c-ba12fbc0f60b "We Did Nothing Wrong Assignment" %}}
 
 Tutorial 1: Introduction to 6.033 Communication
 -----------------------------------------------
@@ -44,4 +49,4 @@ Most of these tutorials will teach the communication theory and practices of thi
 System Critique Assignment 1: Evaluate and Assess a Domain Name System (DNS)
 ----------------------------------------------------------------------------
 
-*   Assigned: [Critique Assignment 1]({{< baseurl >}}/pages/week-1/critique-assignment-1)
+*   Assigned: {{% resource_link 6e76f1ca-8214-a450-c84c-bced0d6be017 "Critique Assignment 1" %}}

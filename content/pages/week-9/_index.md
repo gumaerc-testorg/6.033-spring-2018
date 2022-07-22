@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section provides materials for Week 9: Distributed Systems Part
+  II. Materials include lecture outlines, slides, and readings as well as recitation
+  and assignment activities.  '
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 9: Distributed Systems Part II'
 uid: aa415ef7-5752-19ee-a10a-fb9dc2dbef65
 ---
@@ -20,11 +25,11 @@ Lecture 16: Atomicity via Logging
 9.  What about Un-undo-able Actions?
 10.  Summary
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-9/lecture-16-outline)
+*   {{% resource_link c46fe11e-d023-04f5-7535-4315faa42e52 "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 16 Slides: Atomicity via Logging (PDF)]({{< baseurl >}}/resources/mit6_033s18lec16)
+*   {{% resource_link 76fa2168-e5a4-c472-2c31-5a84b8e09a8c "Lecture 16 Slides: Atomicity via Logging (PDF)" %}}
 
 ### Reading
 
@@ -33,8 +38,8 @@ Lecture 16: Atomicity via Logging
 Recitation 16: Log-Structured File System (LFS)
 -----------------------------------------------
 
-*   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Log-structured File Systems (PDF)](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)" by R. & A. Arpaci-Dusseau
-*   [Log-Structured File System (LFS) Assignment]({{< baseurl >}}/pages/week-9/log-structured-file-system-lfs-assignment)
+*   Read "[Log-structured File Systems (PDF)](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)" by R. & A. Arpaci-Dusseau
+*   {{% resource_link cbb27708-c82e-11a7-a3f9-be7fc848063b "Log-Structured File System (LFS) Assignment" %}}
 
 Hands-on Assignment 6: Write Ahead Log (WAL) System
 ---------------------------------------------------
@@ -56,11 +61,11 @@ Lecture 17: Fault Tolerance: Isolation
 8.  Another Possible Performance Improvement: Giving up on Conflict Serializability
 9.  Summary
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-9/lecture-17-outline)
+*   {{% resource_link 0f38d012-21c7-a072-b7fd-cd72637e5cd3 "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 17 Slides: Fault Tolerance: Isolation (PDF)]({{< baseurl >}}/resources/mit6_033s18lec17)
+*   {{% resource_link 92b03e93-3e2f-ec86-0b6b-cb53a306e020 "Lecture 17 Slides: Fault Tolerance: Isolation (PDF)" %}}
 
 ### Reading
 
@@ -70,7 +75,7 @@ Recitation 17: Databases
 ------------------------
 
 *   Read "[Concurrency Control and Recovery](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.38.1437)" by M. J. Franklin
-*   [Databases Assignment]({{< baseurl >}}/pages/week-9/databases-assignment)
+*   {{% resource_link f3fea455-6b17-29b1-b548-eaf293e7bf2c "Databases Assignment" %}}
 
 Tutorial 9: \[No Tutorial this Week\]
 -------------------------------------

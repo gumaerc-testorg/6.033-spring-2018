@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This contains the content outline for lecture 17.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 9: Distributed Systems Part II'
+parent_type: CourseSection
 parent_uid: aa415ef7-5752-19ee-a10a-fb9dc2dbef65
 title: Lecture 17 Outline
 uid: 0f38d012-21c7-a072-b7fd-cd72637e5cd3
@@ -27,7 +31,7 @@ uid: 0f38d012-21c7-a072-b7fd-cd72637e5cd3
     *   Definition should make sense: Concurrent reads are generally fine, but problems arise as soon as writes get involved.
     *   A schedule is conflict serializable if the order of all of its conflicts is the same as the order of the conflicts in some sequential schedule.
         *   By "order of conflicts" we mean the ordering of the steps in each individual conflict.
-    *   See [Lecture 17 slides (PDF)]({{< baseurl >}}/resources/mit6_033s18lec17) for examples. A schedule can be final-state serializable but not conflict serializable.
+    *   See {{% resource_link 92b03e93-3e2f-ec86-0b6b-cb53a306e020 "Lecture 17 slides (PDF)" %}} for examples. A schedule can be final-state serializable but not conflict serializable.
 4.  Conflict Graphs
     *   Nodes are transactions.
     *   Edges are directed.
@@ -163,7 +167,7 @@ uid: 0f38d012-21c7-a072-b7fd-cd72637e5cd3
       T2: write (y, 30); T1: read (y)  
       T2: write (y, 30); T1: write (y, y+10)`
     
-    Our conflict graph here is T1 <--> T2.
+    Our conflict graph here is T1 \<--> T2.
     
     (Note: this schedule was final-state serializable but not conflict serializable.)
     
@@ -300,9 +304,9 @@ uid: 0f38d012-21c7-a072-b7fd-cd72637e5cd3
           T1: write (y); T2: write (y)`
         
         The conflict graph is:  
-         ![Conflict graph between T1, T2, T3, and T4.]({{< resource_file 191c7334-efdd-f334-6e7d-357d7122f6b8 >}})
+         {{< resource 191c7334-efdd-f334-6e7d-357d7122f6b8 >}}
         
-    *   Acyclic conflict graph <=> conflict-serializable.
+    *   Acyclic conflict graph \<=> conflict-serializable.
         *   Makes sense: conflict graph for any serial schedule is acyclic.
         *   But we won't formally prove this.
 5.  Interlude
@@ -500,7 +504,7 @@ uid: 0f38d012-21c7-a072-b7fd-cd72637e5cd3
     {{< tableclose >}}
     
     Conflict graph:  
-    ![Conflict graph between T1, T2, and T3.]({{< resource_file 08da808c-5e17-7094-6eb5-ed6637fa7572 >}})
+    {{< resource 08da808c-5e17-7094-6eb5-ed6637fa7572 >}}
     
     *   Not acyclic => not conflict serializable.
     *   But compare it to running T1, then T2, then T3 (serially).

@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This contains the content outline for lecture 2.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 2: Operating Systems Part II'
+parent_type: CourseSection
 parent_uid: d23c09ff-9de9-dc9c-b989-05d72c54fd66
 title: Lecture 2 Outline
 uid: 3610b8eb-173d-dad3-75e0-c9bf4c6d3ee4

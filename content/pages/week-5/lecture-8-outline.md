@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This contains the content outline for lecture 8.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 5: Networking Part I'
+parent_type: CourseSection
 parent_uid: a8eaa3de-11de-35a2-f8d6-b2d186c97fc6
 title: Lecture 8 Outline
 uid: 89e1e54e-a14e-f974-0668-9840928834a2
@@ -50,7 +54,7 @@ uid: 89e1e54e-a14e-f974-0668-9840928834a2
     *   Addressing. Assign addresses in chunks of different sizes. "Class B" chunks — 65K — are typically "just right", and we ran out of those. The protocol CIDR was developed to divide these up.
         *   Most interesting thing about CIDR: That it was possible to make this change at all. Changing addressing => changing switches. Happened because all switches were made by Cisco and forwarding was done in software.
 6.  The Internet, Post-1993
-    *   1993: Commercialization. Changes stopped. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[New technologies essentially get deployed for reasons of fear or greed (PDF)](http://www0.cs.ucl.ac.uk/staff/M.Handley/papers/only-just-works.pdf)."
+    *   1993: Commercialization. Changes stopped. "[New technologies essentially get deployed for reasons of fear or greed (PDF)](http://www0.cs.ucl.ac.uk/staff/M.Handley/papers/only-just-works.pdf)."
 7.  Problems We Deal with Today
     *   DDoS: Send a lot of traffic to one machine to consume its resources. Hard to prevent. Internet wasn't designed with accountability in mind.
     *   Security: Internet was not designed for security. DNS, BGP, etc., have no secure infrastructure.

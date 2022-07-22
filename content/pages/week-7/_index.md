@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section provides materials for Week 7: Networking Part III. Materials
+  include lecture outlines, slides, and readings as well as recitation and assignment
+  activities.  '
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 7: Networking Part III'
 uid: 0abfab7f-cd01-9a6a-159d-1afa3fd61f99
 ---
@@ -22,11 +27,11 @@ Lecture 12: In-Network Resource Management
 11.  Deficit Round-Robin
 12.  Discussion
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-7/lecture-12-outline)
+*   {{% resource_link 3ebfda64-abe4-187a-6497-84708a5f0971 "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 12 Slides: In-Network Resource Management (PDF)]({{< baseurl >}}/resources/mit6_033s18lec12)
+*   {{% resource_link 0139d45c-1864-08d8-2839-9ba2abd77c19 "Lecture 12 Slides: In-Network Resource Management (PDF)" %}}
 
 ### Reading
 
@@ -35,8 +40,8 @@ No readings assigned
 Recitation 12: Data Center Transmission Control Protocol (DCTP)
 ---------------------------------------------------------------
 
-*   Read "_![This resource may not render correctly in a screen reader.](/images/inacessible.gif)_[Data Center TCP (DCTCP) (PDF - 3.1MB)](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)" by M. Alizadeh, A. Greenberg, D. Maltz, J. Padhye & P. Patel
-*   [DCTP Assignment]({{< baseurl >}}/pages/week-7/dctcp-assignment)
+*   Read "__[Data Center TCP (DCTCP) (PDF - 3.1MB)](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)" by M. Alizadeh, A. Greenberg, D. Maltz, J. Padhye & P. Patel
+*   {{% resource_link 72f0d675-cb14-ba19-4c5d-7a81051af829 "DCTP Assignment" %}}
 
 Lecture 13: Networking: P2P Networks + Content Distribution Network (CDN)
 -------------------------------------------------------------------------
@@ -50,11 +55,11 @@ Lecture 13: Networking: P2P Networks + Content Distribution Network (CDN)
 5.  VoIP: Voice over IP
 6.  Video-Streaming (Briefly)
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-7/lecture-13-outline)
+*   {{% resource_link e46aed55-3f04-cfcf-dcdd-9ab3513be6ed "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 13 Slides: Networking: P2P Networks + CDNs (PDF)]({{< baseurl >}}/resources/mit6_033s18lec13)
+*   {{% resource_link cb323c9b-fd70-6cc4-af75-6a5e33b7ca8c "Lecture 13 Slides: Networking: P2P Networks + CDNs (PDF)" %}}
 
 ### Reading
 
@@ -63,8 +68,8 @@ Lecture 13: Networking: P2P Networks + Content Distribution Network (CDN)
 Recitation 13: Content Distribution Networks (CDNs)
 ---------------------------------------------------
 
-*   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Akamai Network: A Platform for High-Performance Internet Applications (PDF)](https://www.akamai.com/us/en/multimedia/documents/technical-publication/the-akamai-network-a-platform-for-high-performance-internet-applications-technical-publication.pdf)" by E. Nygren, R. Sitaraman & J. Sun
-*   [CDN Assignment]({{< baseurl >}}/pages/week-7/cdn-assignment)
+*   Read "[The Akamai Network: A Platform for High-Performance Internet Applications (PDF)](https://www.akamai.com/us/en/multimedia/documents/technical-publication/the-akamai-network-a-platform-for-high-performance-internet-applications-technical-publication.pdf)" by E. Nygren, R. Sitaraman & J. Sun
+*   {{% resource_link 0de7a026-cc51-8d64-2305-b1769d62af0f "CDN Assignment" %}}
 
 Tutorial 7: \[No Tutorial this Week\]
 -------------------------------------

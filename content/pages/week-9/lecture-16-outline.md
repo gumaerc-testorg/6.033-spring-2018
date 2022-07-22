@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This contains the content outline for lecture 16.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 9: Distributed Systems Part II'
+parent_type: CourseSection
 parent_uid: aa415ef7-5752-19ee-a10a-fb9dc2dbef65
 title: Lecture 16 Outline
 uid: c46fe11e-d023-04f5-7535-4315faa42e52
@@ -142,7 +146,7 @@ uid: c46fe11e-d023-04f5-7535-4315faa42e52
         *   COMMIT records specify that transaction committed..
         *   ABORT records specify that transaction aborted.
             *   Not always needed.
-    *   (See [Lecture 16 slides (PDF)]({{< baseurl >}}/resources/mit6_033s18lec16) for the log for this example.)
+    *   (See {{% resource_link 76fa2168-e5a4-c472-2c31-5a84b8e09a8c "Lecture 16 slides (PDF)" %}} for the log for this example.)
     *   Nice: Updates are small appends.
 4.  How to Use a Log for Transactions
     *   On begin: Allocate new transaction ID (TID).
@@ -154,7 +158,7 @@ uid: c46fe11e-d023-04f5-7535-4315faa42e52
         *   Another way to do it would be to put checksums on each record and ignore partially-written records.
     *   On abort: Nothing (could write an ABORT record but not strictly needed).
     *   On recover: Nothing.
-    *   (see [Lecture 16 slides (PDF)]({{< baseurl >}}/resources/mit6_033s18lec16) for code.)
+    *   (see {{% resource_link 76fa2168-e5a4-c472-2c31-5a84b8e09a8c "Lecture 16 slides (PDF)" %}} for code.)
 5.  Performance of Log
     *   Writes: Good. Sequential = fast.
     *   Reads: Terrible. Must scan entire log.
@@ -167,7 +171,7 @@ uid: c46fe11e-d023-04f5-7535-4315faa42e52
     *   "Log" = write to log. "Install" = write to cell storage.
     *   How to recover:
         *   Scan the log backwards, determine what actions aborted, and undo them.
-        *   (see [Lecture 16 slides (PDF)]({{< baseurl >}}/resources/mit6_033s18lec16) for code.)
+        *   (see {{% resource_link 76fa2168-e5a4-c472-2c31-5a84b8e09a8c "Lecture 16 slides (PDF)" %}} for code.)
         *   What if we crash during recovery? No worries; recover() is idempotent. Can do it repeatedly.
     *   How to write:
         *   Log before install, not the other way; otherwise, can't recover from a crash in between the two writes.

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section provides materials for Week 2: Operating Systems Part II.
+  Materials include lecture outlines, slides, and readings as well as recitation and
+  assignment activities.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 2: Operating Systems Part II'
 uid: d23c09ff-9de9-dc9c-b989-05d72c54fd66
 ---
@@ -14,11 +19,11 @@ Lecture 2: Naming in Systems
 3.  Abstract View of Naming Schemes
 4.  Naming on the Internet: DNS
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-2/lecture-2-outline)
+*   {{% resource_link 3610b8eb-173d-dad3-75e0-c9bf4c6d3ee4 "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 2 Slides: Naming in Systems (PDF)]({{< baseurl >}}/resources/mit6_033s18lec2)
+*   {{% resource_link 953fdb71-0437-8ebb-0b69-e49f591282f9 "Lecture 2 Slides: Naming in Systems (PDF)" %}}
 
 ### Reading
 
@@ -33,7 +38,7 @@ Recitation 3: Domain Name System (DNS)
 --------------------------------------
 
 *   Read Book section 4.4: "Case study: The Internet Domain Name System (DNS)"
-*   [Domain Name System (DNS) Assignment]({{< baseurl >}}/pages/week-2/domain-name-system-dns-assignment)
+*   {{% resource_link 296c66ea-a30e-98fb-be04-74d631d544ec "Domain Name System (DNS) Assignment" %}}
 
 Lecture 3: Operating Systems + Virtual Memory
 ---------------------------------------------
@@ -49,11 +54,11 @@ Lecture 3: Operating Systems + Virtual Memory
 7.  Abstraction
 8.  Virtual Memory as Naming
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-2/lecture-3-outline)
+*   {{% resource_link 09361169-bc52-2c62-2a18-8d7cf0c6d2ac "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 3 Slides: Operating Systems + Virtual Memory (PDF)]({{< baseurl >}}/resources/mit6_033s18lec3)
+*   {{% resource_link a73b4431-1a41-9a65-a9d0-b8d04c29495f "Lecture 3 Slides: Operating Systems + Virtual Memory (PDF)" %}}
 
 ### Reading
 
@@ -62,8 +67,8 @@ Lecture 3: Operating Systems + Virtual Memory
 Recitation 4: UNIX Part 1
 -------------------------
 
-*   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Unix Time-Sharing System (PDF)](http://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by D.M. Ritchie & K. Thompson. Recitation 4 focuses on the first four sections of the paper (Recitation 5 will focus on the rest.)
-*   [UNIX Assignment Part 1]({{< baseurl >}}/pages/week-2/unix-assignment-part-1)
+*   Read "[The Unix Time-Sharing System (PDF)](http://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by D.M. Ritchie & K. Thompson. Recitation 4 focuses on the first four sections of the paper (Recitation 5 will focus on the rest.)
+*   {{% resource_link 37760e09-a6c5-09c9-e969-bcefe6230e7d "UNIX Assignment Part 1" %}}
 
 Hands-on Assignment 2: UNIX
 ---------------------------

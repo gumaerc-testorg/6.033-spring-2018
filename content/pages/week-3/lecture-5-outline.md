@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This contains the content outline for lecture 4.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 3: Operating Systems Part III'
+parent_type: CourseSection
 parent_uid: 81056cb9-5545-9139-0582-b2e55570d21a
 title: Lecture 5 Outline
 uid: 05b631a6-ef1c-2f86-b877-12c4e1b89310

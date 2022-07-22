@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section provides materials for Week 14 of the course. Materials
+  include lecture outlines, slides, and readings as well as recitation and assignment
+  activities.  '
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 14: Security Part IV'
 uid: a53ea92f-4c3d-bec4-3ffa-e7cf73d6eb29
 ---
@@ -16,11 +21,11 @@ Lecture 25: Tor
 5.  Performance
 6.  Summary
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-14/lecture-25-outline)
+*   {{% resource_link 935d90a5-7a9a-0169-7319-6c14b0526d90 "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 25 Slides: Tor (PDF)]({{< baseurl >}}/resources/mit6_033s18lec25)
+*   {{% resource_link d836f7cd-4d23-9062-344e-1ec1e99f03c8 "Lecture 25 Slides: Tor (PDF)" %}}
 
 ### Reading
 
@@ -29,25 +34,25 @@ Lecture 25: Tor
 Recitation 25: Meltdown
 -----------------------
 
-*   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Meltdown (PDF)](https://meltdownattack.com/meltdown.pdf)" by M. Lipp, M. Schwarz, et al.
-*   [Meltdown Assignment]({{< baseurl >}}/pages/week-14/meltdown-assignment)
+*   Read "[Meltdown (PDF)](https://meltdownattack.com/meltdown.pdf)" by M. Lipp, M. Schwarz, et al.
+*   {{% resource_link 447da471-034f-b347-4c11-bbe7bfa9e6b3 "Meltdown Assignment" %}}
 
 Lecture 26: Policy vs. Mechanism
 --------------------------------
 
 ### Lecture Slides
 
-*   [Lecture 26 Slides: Policy vs. Mechanism (PDF)]({{< baseurl >}}/resources/mit6_033s18lec26)
+*   {{% resource_link a645fd66-f27b-801f-fadb-cd1f24d0d752 "Lecture 26 Slides: Policy vs. Mechanism (PDF)" %}}
 
 ### Reading
 
-*   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Night Watch (PDF)](http://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf)" by James Mickens.
+*   Read "[The Night Watch (PDF)](http://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf)" by James Mickens.
 
 Recitation 26: Trusting Trust
 -----------------------------
 
-*   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Reflections on Trusting Trust (PDF)](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)" by K. Thomson
-*   [Trusting Trust Assignment]({{< baseurl >}}/pages/week-14/trusting-trust-assignment)
+*   Read "[Reflections on Trusting Trust (PDF)](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)" by K. Thomson
+*   {{% resource_link 1f147788-1493-7d98-11fd-9b451a7d7a4e "Trusting Trust Assignment" %}}
 
 END OF CLASSES
 --------------

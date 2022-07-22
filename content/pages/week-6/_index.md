@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section provides materials for Week 6: Networking Part II. Materials
+  include lecture outlines, slides, and readings as well as recitation and assignment
+  activities.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 6: Networking Part II'
 uid: 75800336-c3a2-ebee-84a1-8bb126a5a60b
 ---
@@ -19,11 +24,11 @@ Lecture 10: Networking: Routing (BGP)
 8.  Problems With BGP
 9.  Recurring Themes
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-6/lecture-10-outline)
+*   {{% resource_link 26febf46-605f-599b-aa63-c8504b6e5d4d "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   [Lecture 10 Slides: Networking: Routing (BGP) (PDF)]({{< baseurl >}}/resources/mit6_033s18lec10)
+*   {{% resource_link 13cb1376-fba2-b7ba-d3d7-17c0d2991531 "Lecture 10 Slides: Networking: Routing (BGP) (PDF)" %}}
 
 ### Reading
 
@@ -52,11 +57,11 @@ Lecture 11: Transport Layer
 8.  Additional Mechanisms
 9.  Reflection
 
-*   [Detailed Outline]({{< baseurl >}}/pages/week-6/lecture-11-outline)
+*   {{% resource_link a832ff85-3be6-a295-c5a6-23b102707bb8 "Detailed Outline" %}}
 
 ### Lecture Slides
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 11 Slides: Transport Layer (PDF)]({{< baseurl >}}/resources/mit6_033s18lec11)
+*   {{% resource_link d071f3da-1e8e-5b64-6e22-0525783eb2ba "Lecture 11 Slides: Transport Layer (PDF)" %}}
 
 ### Reading
 
@@ -65,11 +70,11 @@ Lecture 11: Transport Layer
 Recitation 11: Resilient Overlay Networks (RON)
 -----------------------------------------------
 
-*   Read most of "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Resilient Overlay Networks (PDF)](http://nms.lcs.mit.edu/papers/ron-sosp2001.pdf)" by D. Andersen, H. Balakrishnan, et al.
+*   Read most of "[Resilient Overlay Networks (PDF)](http://nms.lcs.mit.edu/papers/ron-sosp2001.pdf)" by D. Andersen, H. Balakrishnan, et al.
 *   See assignment for details about which sections to read.
-*   [RON Assignment]({{< baseurl >}}/pages/week-6/ron-assignment)
+*   {{% resource_link c09c7d62-696b-071f-ffb0-88433fa31b32 "RON Assignment" %}}
 
 Tutorial 6: Assembling the Design Project Preliminary Report
 ------------------------------------------------------------
 
-The [Design Project Preliminary Report (PDF)]({{< baseurl >}}/resources/mit6_033s18dppr_writing) was assigned in [Week 3.]({{< baseurl >}}/pages/week-3) The preliminary report for the design project will be evaluated by your Recitation Instructor and your Communication Instructor. Your Communication Instructor will evaluate it according to the grading rubric and assign a letter grade. Your Recitation Instructor will evaluate the preliminary report to make sure your design is on the right track; you should incorporate their feedback into the presentation and report. See the [Design Project]({{< baseurl >}}/pages/design-project) section for more details.
+The {{% resource_link 85b670dd-8de4-dbf6-b591-b48baa5d9789 "Design Project Preliminary Report (PDF)" %}} was assigned in {{% resource_link 81056cb9-5545-9139-0582-b2e55570d21a "Week 3." %}} The preliminary report for the design project will be evaluated by your Recitation Instructor and your Communication Instructor. Your Communication Instructor will evaluate it according to the grading rubric and assign a letter grade. Your Recitation Instructor will evaluate the preliminary report to make sure your design is on the right track; you should incorporate their feedback into the presentation and report. See the {{% resource_link 73594177-84bd-559f-acb2-aadc9d04abe7 "Design Project" %}} section for more details.

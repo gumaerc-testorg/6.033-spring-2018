@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This contains the content outline for lecture 19.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 11: Security Part I'
+parent_type: CourseSection
 parent_uid: c7a234fb-b37e-e20a-41b9-581882a0afcd
 title: Lecture 19 Outline
 uid: 65aa4eed-05a6-e3c3-31b7-24d8f6b44e7d
@@ -31,7 +35,7 @@ uid: 65aa4eed-05a6-e3c3-31b7-24d8f6b44e7d
         *   Decides all non-deterministic values (e.g., random(), time()).
     *   What if primary fails?
         *   Idea 1: Coordinator knows about both primary and backup, and decides which to use.
-            *   Won't work: Split brain syndrome. Multiple coordinators come to independent, and different, conclusions about who is primary when there are network partitions (see [Lecture 19 slides (PDF)]({{< baseurl >}}/resources/mit6_033s18lec19)).
+            *   Won't work: Split brain syndrome. Multiple coordinators come to independent, and different, conclusions about who is primary when there are network partitions (see {{% resource_link f45114b1-2a92-0d47-c39c-6a05bcff1d93 "Lecture 19 slides (PDF)" %}}).
         *   Idea 2: Have human decide when to switch from primary to backup.
             *   Not unreasonable for small webservices.
 5.  View Servers
@@ -54,7 +58,7 @@ uid: 65aa4eed-05a6-e3c3-31b7-24d8f6b44e7d
     *   Add two more:
         1.  Primary must reject forwarded requests (i.e., it won't accept an update from the backup).
         2.  Primary in view i must have been primary or backup in view i-1.
-    *   Now consider S1 being partitioned from the VS (see [Lecture 19 slides (PDF)]({{< baseurl >}}/resources/mit6_033s18lec19)).
+    *   Now consider S1 being partitioned from the VS (see {{% resource_link f45114b1-2a92-0d47-c39c-6a05bcff1d93 "Lecture 19 slides (PDF)" %}}).
         *   Before S2 hears about View 2:
             *   S1 can process operations from coordinators, S2 will accept forwarded requests.
             *   S2 will reject operations from coordinators who have heard about view 2.

@@ -1,43 +1,46 @@
 ---
 content_type: page
+description: In this section the instructor describes various aspects of how she teaches
+  6.033 Computer System Engineering.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: e75a8c08-e117-86c5-3503-1b5e10f0fe19
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 In the following TLL Speaker Series lecture video, Dr. Katrina LaCurts describes various aspects of how she and her teaching team infused active learning into the recitation sections of _6.033 Computer System Engineering_.
 
-[Infusing Active Learning into 6.033 Recitations]({{< baseurl >}}/resources/infusing-active-learning-into-6)
+{{% resource_link e3329846-53d9-016b-a16d-adba4b432036 "Infusing Active Learning into 6.033 Recitations" %}}
 
-[![Woman sitting in a room and talking.]({{< resource_file 3e3e4182-6606-6578-8310-c00d2f2f296a >}})]({{< baseurl >}}/resources/infusing-active-learning-into-6)
+{{< resource uuid="3e3e4182-6606-6578-8310-c00d2f2f296a" href_uuid="e3329846-53d9-016b-a16d-adba4b432036" >}}
+
+ 
 
 View by chapter
 
-*   [What is Active Learning?]({{< baseurl >}}/resources/what-is-active-learning)
-*   [Unique Aspects of the Course]({{< baseurl >}}/resources/unique-aspects-of-the-course)
-*   [Why Infuse Active Learning into 6.033 Recitations?]({{< baseurl >}}/resources/why_infusing-active-learning-into-6)
-*   [Getting Everyone on Board]({{< baseurl >}}/resources/getting-everyone-on-board)
-*   [The Importance of Extensive Planning]({{< baseurl >}}/resources/importance-of-extensive-planning)
-*   [Supporting Staff as Individuals]({{< baseurl >}}/resources/supporting-staff-as-individuals)
-*   [Supporting Staff as a Group]({{< baseurl >}}/resources/supporting-staff-as-a-group)
-*   [Active Learning Activity: Group Work to Class-wide Discussion]({{< baseurl >}}/resources/group-work-to-class-wide-discussion)
-*   [Active Learning Activity: Debates]({{< baseurl >}}/resources/active-learning-activity-debates)
-*   [Active Learning Activity: Drawing Pictures]({{< baseurl >}}/resources/drawing-pictures)
-*   [Active Learning Activity: Acting Things Out]({{< baseurl >}}/resources/acting-things-out)
-*   [Did Active Learning Work?]({{< baseurl >}}/resources/did-active-learning-work)
+- {{% resource_link e63c00a2-e24c-93cc-5223-35b0a5f1e647 "What is Active Learning?" %}}
+- {{% resource_link c376d0dd-384a-f6be-87ef-f4d6cd32feb0 "Unique Aspects of the Course" %}}
+- {{% resource_link 1e7e49dc-3b37-e0d9-d362-97d4a6e5e423 "Why Infuse Active Learning into 6.033 Recitations?" %}}
+- {{% resource_link b273e9a7-5e78-73fe-ad0e-7a180e6cae80 "Getting Everyone on Board" %}}
+- {{% resource_link 5303c7da-c0ff-5f0e-6844-2a6695ac861e "The Importance of Extensive Planning" %}}
+- {{% resource_link 4c860345-1055-a405-7e74-e6bb2895d799 "Supporting Staff as Individuals" %}}
+- {{% resource_link e771bd0b-e352-139d-acbb-3a4793142d55 "Supporting Staff as a Group" %}}
+- {{% resource_link bcb2ebba-6409-4be0-e70e-0ea2685851d8 "Active Learning Activity: Group Work to Class-wide Discussion" %}}
+- {{% resource_link 78c88887-ab18-4d53-f900-927a50ba8a65 "Active Learning Activity: Debates" %}}
+- {{% resource_link 5dc920bd-bdee-9276-cae9-210b8529f6be "Active Learning Activity: Drawing Pictures" %}}
+- {{% resource_link fec8db2d-f75c-585a-9d97-6611ecf7d33a "Active Learning Activity: Acting Things Out" %}}
+- {{% resource_link bc81939d-39ca-9b20-d235-a2bcfdc48df8 "Did Active Learning Work?" %}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-[_6.004 Computation Structures_](/courses/6-004-computation-structures-spring-2009/)  
-and [_6.005 Software Construction_](/courses/6-005-software-construction-spring-2016/) or _6.009 Fundamentals of Programming_
+[_6.004 Computation Structures_](/courses/6-004-computation-structures-spring-2009) and [_6.005 Software Construction_](/courses/6-005-software-construction-spring-2016) or _6.009 Fundamentals of Programming_
 
 ### Requirements Satisfied
 
@@ -47,58 +50,31 @@ CI-M ![](/images/educator/icon-question-cim.png)
 
 Every spring semester
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Lecture hall with tiered seating and tablet armchairs.]({{< resource_file a18d96b3-21bd-fa67-08d4-1f15ddcdbd14 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Lectures took place in a large hall equipped with sliding chalkboards and tiered seating.
-    
-*   ![Four rows of tablet armchairs facing sliding chalkboards at front and side of room. An instructor’s table is in front of the chalkboards.]({{< resource_file f71e9470-30e0-207a-655e-28d00738d833 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Recitations took place in smaller rooms with moveable tablet arm chairs and sliding chalkboards.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
 The students' grades were based on the following activities:
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+
 - 35% Technical materials
 - 40% Communication + System Design and Analysis
 - 25% Participation
 
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ### Rubrics
 
-A [rubric (PDF)]({{< baseurl >}}/resources/mit6_033s18dpr_rubric) was used to grade students’ design project final reports.
+A {{% resource_link df7097db-2a37-53b9-06cd-51adc0ef46a5 "rubric (PDF)" %}} was used to grade students’ design project final reports.
 
-Student Information
--------------------
+## Student Information
 
-![401 students took this course when it was taught in Spring 2018.]({{< resource_file ed621a8b-454a-4124-3149-f292982c273e >}})
+### Enrollment
+
+401 students
 
 ### Breakdown by Year
 
@@ -114,36 +90,30 @@ Students tend to have knowledge of basic programming and computer architecture (
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 11 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
-*   Met 2 times per week for 1 hour per session; 25 sessions total.
-*   The lectures were designed to teach students the technical details necessary to design their own systems and to put those details in larger contexts: both the contexts of a specific area of systems as well as systems in general.
+- Met 2 times per week for 1 hour per session; 25 sessions total.
+- The lectures were designed to teach students the technical details necessary to design their own systems and to put those details in larger contexts: both the contexts of a specific area of systems as well as systems in general.
 
-Recitation
-----------
+### Recitation
 
-*   Met 2 times per week for 1 hour per session; 27 sessions total.
-*   Recitations were designed to give students a chance to practice their system analysis and oral communication skills. Each recitation revolved around a particular paper in systems. Through reading these papers, students got a better sense of how communication in the field is done. Recitations were discussion-based and incorporated active learning; students got practice analyzing, critiquing, and communicating about systems.
+- Met 2 times per week for 1 hour per session; 27 sessions total.
+- Recitations were designed to give students a chance to practice their system analysis and oral communication skills. Each recitation revolved around a particular paper in systems. Through reading these papers, students got a better sense of how communication in the field is done. Recitations were discussion-based and incorporated active learning; students got practice analyzing, critiquing, and communicating about systems.
 
-Writing Tutorial
-----------------
+### Writing Tutorial
 
-*   Met 1 time per week for 1 hour per session; 10 sessions total.
-*   Most of the writing tutorials taught the communication theory and practices of this course, and assisted students in preparing for the assignments. Students became fluent in a variety of communication genres, developed strategies and skills needed to present technical concepts to different audiences, learned how to use writing to develop and deepen their technical understanding, and got specific, directed instruction on writing and presenting their 6.033 assignments. A handful of the tutorials were dedicated to discussing the design project.
+- Met 1 time per week for 1 hour per session; 10 sessions total.
+- Most of the writing tutorials taught the communication theory and practices of this course, and assisted students in preparing for the assignments. Students became fluent in a variety of communication genres, developed strategies and skills needed to present technical concepts to different audiences, learned how to use writing to develop and deepen their technical understanding, and got specific, directed instruction on writing and presenting their 6.033 assignments. A handful of the tutorials were dedicated to discussing the design project.
 
-Out of Class
-------------
+### Out of Class
 
-*   Out of class, students prepared for quizzes, completed readings and hands-on assignments, and worked on their design projects and system critiques.
+- Out of class, students prepared for quizzes, completed readings and hands-on assignments, and worked on their design projects and system critiques.
 
-Course Team Roles
------------------
+## Course Team Roles
 
 ### Lecturer (Dr. Katrina LaCurts)
 

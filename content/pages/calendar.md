@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section includes the course calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: dcd25f88-acf3-f72b-a2ad-5aae10daef4f
 ---
@@ -35,7 +38,7 @@ FRIDAY
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -74,7 +77,7 @@ System Critique #1 assigned
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -113,7 +116,7 @@ Hands-on 1 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -158,7 +161,7 @@ DP Preliminary Report assigned
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -228,7 +231,7 @@ FRIDAY
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -267,7 +270,7 @@ Hands-on 3 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -312,7 +315,7 @@ System Critique #2 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -382,7 +385,7 @@ FRIDAY
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -421,7 +424,7 @@ DP Presentation assigned
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -460,7 +463,7 @@ Hands-on 6 assigned
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -536,7 +539,7 @@ FRIDAY
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -575,7 +578,7 @@ Peer Review assigned
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 12
 {{< tdclose >}}
 {{< tdopen >}}
@@ -614,7 +617,7 @@ Tutorial 12
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -653,7 +656,7 @@ Peer Review due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 14
 {{< tdclose >}}
 {{< tdopen >}}

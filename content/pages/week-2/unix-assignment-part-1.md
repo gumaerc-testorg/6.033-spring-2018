@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This contains the instructions and questions for the UNIX assignment
+  1 on "The UNIX Time-Sharing System" by Dennis Ritchie and Ken Thompson.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 2: Operating Systems Part II'
+parent_type: CourseSection
 parent_uid: d23c09ff-9de9-dc9c-b989-05d72c54fd66
 title: UNIX Assignment Part 1
 uid: 37760e09-a6c5-09c9-e969-bcefe6230e7d
 ---
 
-Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The UNIX Time-Sharing System (PDF)](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by Dennis Ritchie and Ken Thompson. Recitation 4 will focus on the first four sections of the paper; Recitation 5 will focus on the rest.
+Read "[The UNIX Time-Sharing System (PDF)](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by Dennis Ritchie and Ken Thompson. Recitation 4 will focus on the first four sections of the paper; Recitation 5 will focus on the rest.
 
 To help you as you read:
 

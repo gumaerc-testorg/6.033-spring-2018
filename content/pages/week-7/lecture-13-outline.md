@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This contains the content outline for lecture 13.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 7: Networking Part III'
+parent_type: CourseSection
 parent_uid: 0abfab7f-cd01-9a6a-159d-1afa3fd61f99
 title: Lecture 13 Outline
 uid: e46aed55-3f04-cfcf-dcdd-9ab3513be6ed
@@ -66,10 +70,10 @@ uid: e46aed55-3f04-cfcf-dcdd-9ab3513be6ed
         *   Now A doesn't even know S's IP (private IPs aren't routable). It also doesn't know N2's IP; it has no way to get that.
         *   For Skype: Means that A and S can't call each other.
         *   Skype provides a directory service, so assume we can get N2's public IP.  When N2 gets packet destined for S, it has no idea what to do with it.
-        *   (See [Lecture 13 slides (PDF)]({{< baseurl >}}/resources/mit6_033s18lec13) for example.)
+        *   (See {{% resource_link cb323c9b-fd70-6cc4-af75-6a5e33b7ca8c "Lecture 13 slides (PDF)" %}} for example.)
     *   Skype will employ an additional node—a "supernode"—P, with a public IP, and route A and S's calls through P: 
         
-        ![Diagram showing connection between client A and client S through nodes.]({{< resource_file 46892ea3-a63a-6724-e3aa-77ee0b0114a2 >}})
+        {{< resource 46892ea3-a63a-6724-e3aa-77ee0b0114a2 >}}
         
         *   P keeps a bunch of state to get this to work, and A and S must both be registered users of Skype. A and S will connect to P as part of starting up their Skype client (so private IP users initiate connections to public IPs).
             *   In reality, there is not one supernode, but a network of supernodes. A, S are both connected to nodes in that network, and the overlay network routes data between them.

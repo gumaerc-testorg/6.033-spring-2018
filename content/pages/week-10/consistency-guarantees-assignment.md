@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: 'This contains the instructions and questions for the consistency guarantees
+  assignment on the "Replicated Data Consistency Explained Through Baseball" paper
+  by Doug Terry.    '
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 10: Distributed Systems Part III'
+parent_type: CourseSection
 parent_uid: 62a94c78-a524-3c30-60aa-11c27ff81fc7
 title: Consistency Guarantees Assignment
 uid: c109e0c5-f4f6-9b52-7d96-b0c911fcd579
 ---
 
-Read the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Replicated Data Consistency Explained Through Baseball (PDF)](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyAndBaseballReport.pdf)" paper by Doug Terry.
+Read the "[Replicated Data Consistency Explained Through Baseball (PDF)](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyAndBaseballReport.pdf)" paper by Doug Terry.
 
 This paper is relatively light on technical details, but should give you an understanding of different consistency guarantees and how a system chooses which guarantee to use. Section 2 explains some different guarantees, and Sections 3 and 4 walk through some examples that illustrate places where each guarantee might be used.
 
