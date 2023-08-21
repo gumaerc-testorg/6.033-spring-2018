@@ -38,7 +38,7 @@
     "website": "6-033-computer-system-engineering-spring-2018"
   },
   "course_title": "Computer System Engineering",
-  "course_description": "This class covers topics on the engineering of computer software and hardware systems. Topics include techniques for controlling complexity; strong modularity using client-server design, operating systems; performance, networks; naming; security and privacy; fault-tolerant systems, atomicity and coordination of concurrent activities, and recovery; impact of computer systems on society.\n",
+  "course_description": "This class covers topics on the engineering of computer software and hardware systems. Topics include techniques for controlling complexity; strong modularity using client-server design, operating systems; performance, networks; naming; security and privacy; fault-tolerant systems, atomicity and coordination of concurrent activities, and recovery; impact of computer systems on society.",
   "department_numbers": [
     "6"
   ],
@@ -51,8 +51,10 @@
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments",
-    "Projects with Examples"
+    "Projects with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "514998da-7a5d-42e5-971c-6992b897a682",
+  "site_uid": "b3b71c5a-e00b-4193-af94-467b4ebd4727",
+  "short_id": "6.033-spring-2018",
   "title": "Course Metadata"
 }
