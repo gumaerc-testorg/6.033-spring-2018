@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-033-computer-system-engineering-spring-2018/9bd90745a042ceba8945da6d7daceb49_MIT6_033S18_DP_PeerReview.pdf
+file_size: 126538
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
