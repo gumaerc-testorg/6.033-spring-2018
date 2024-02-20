@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-033-computer-system-engineering-spring-2018/40c59cdf5cc3002f4f5752bcd63188fe_MIT6_033S18_Crit1Worksheet.pdf
+file_size: 70003
 file_type: application/pdf
 learning_resource_types:
 - Assignments

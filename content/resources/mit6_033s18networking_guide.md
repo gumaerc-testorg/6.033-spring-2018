@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-033-computer-system-engineering-spring-2018/b95bf0e79ebef3831b68ec8e4654f152_MIT6_033S18networking_guide.pdf
+file_size: 90008
 file_type: application/pdf
 learning_resource_types:
 - Assignments
