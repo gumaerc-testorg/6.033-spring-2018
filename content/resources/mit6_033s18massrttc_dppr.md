@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-033-computer-system-engineering-spring-2018/c826e0094b147e049c30dda39a35e0fa_MIT6_033S18massrttc_dppr.pdf
+file: /ol-ocw-studio-app/courses/6-033-computer-system-engineering-spring-2018/c826e0094b147e049c30dda39a35e0fa_MIT6_033S18massrttc_dppr.pdf
 file_size: 148804
 file_type: application/pdf
 learning_resource_types: []

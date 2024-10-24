@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-033-computer-system-engineering-spring-2018/ed621a8b454a41243149f292982c273e_401-comp.png
+file: /ol-ocw-studio-app/courses/6-033-computer-system-engineering-spring-2018/ed621a8b454a41243149f292982c273e_401-comp.png
 file_size: 1118
 file_type: image/png
 image_metadata:
