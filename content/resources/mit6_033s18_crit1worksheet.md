@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-033-computer-system-engineering-spring-2018/1795776fcbb70fb120df9c6a06d6c717_MIT6_033S18_Crit1Worksheet.docx
+file: /courses/6-033-computer-system-engineering-spring-2018/1795776fcbb70fb120df9c6a06d6c717_MIT6_033S18_Crit1Worksheet.docx
 file_size: 21518
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 learning_resource_types:
