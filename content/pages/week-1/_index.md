@@ -12,7 +12,7 @@ uid: 70f007d8-4ae8-a0b0-ea4f-00fa8931c506
 Recitation 1: Worse is Better
 -----------------------------
 
-*   Read "[The Rise of Worse is Better](http://dreamsongs.com/RiseOfWorseIsBetter.html)" by R. Gabriel and be prepared to discuss it.
+*   Read "{{% resource_link "98f17fba-2dce-4c04-a8e4-832fd7803438" "The Rise of Worse is Better" %}}" by R. Gabriel and be prepared to discuss it.
 
 Lecture 1: Coping with Complexity: Enforced Modularity via Client/server Organization
 -------------------------------------------------------------------------------------
@@ -38,7 +38,7 @@ Lecture 1: Coping with Complexity: Enforced Modularity via Client/server Organiz
 Recitation 2: We Did Nothing Wrong
 ----------------------------------
 
-*   Read "[We Did Nothing Wrong: Why Software Quality Matters](http://www.baselinemag.com/c/a/Projects-Processes/We-Did-Nothing-Wrong)" by D. Gage & J. McCormick in _Baseline Magazine_ on March 4, 2004
+*   Read "{{% resource_link "bcc9a077-185f-4efd-94a0-5b4dc6caf96e" "We Did Nothing Wrong: Why Software Quality Matters" %}}" by D. Gage & J. McCormick in _Baseline Magazine_ on March 4, 2004
 *   {{% resource_link a4a9ba01-b030-11d9-204c-ba12fbc0f60b "We Did Nothing Wrong Assignment" %}}
 
 Tutorial 1: Introduction to 6.033 Communication

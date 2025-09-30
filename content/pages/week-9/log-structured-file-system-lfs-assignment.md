@@ -11,7 +11,7 @@ title: Log-Structured File System (LFS) Assignment
 uid: cbb27708-c82e-11a7-a3f9-be7fc848063b
 ---
 
-Read "[Log-Structured File Systems (PDF)](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)" by R. & A. Arpaci-Dusseau
+Read "{{% resource_link "06c470e6-0629-44f7-aa7f-1da31cabf57c" "Log-Structured File Systems (PDF)" %}}" by R. & A. Arpaci-Dusseau
 
 The Log-Structured File System departs dramatically from the UNIX File System and proposes, instead, a file system in which all of the data is stored in _an append-only log_, that is, a flat file that can be modified only by having data added to the end of it. In Chapter 9, we also hear about logs, specifically how they help achieve _reliability_. For today's reading, the purpose of the log is to achieve good _performance_.
 

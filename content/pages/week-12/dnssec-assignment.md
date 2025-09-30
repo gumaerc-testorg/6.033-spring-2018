@@ -11,7 +11,7 @@ title: DNSSEC Assignment
 uid: d7e80479-aaf3-38d9-e79e-b2f538c418b3
 ---
 
-Read ["Security Vulnerabilities in DNS and DNSSEC (PDF)"](http://www.chrismitchell.net/svidad.pdf) by Suranjith Ariyapperuma and Chris Mitchell. This paper is about DNSSEC. DNS, as is, is an insecure system; DNSSEC is a proposed extension to DNS to mitigate some of the security concerns. It is not yet widespread.
+Read {{% resource_link "b6916c66-0ca2-410c-a161-79de8f9bed38" "\"Security Vulnerabilities in DNS and DNSSEC (PDF)\"" %}} by Suranjith Ariyapperuma and Chris Mitchell. This paper is about DNSSEC. DNS, as is, is an insecure system; DNSSEC is a proposed extension to DNS to mitigate some of the security concerns. It is not yet widespread.
 
 *   Section 2 gives an overview of DNS. Read it if you need a refresher on the protocol, but if not, you can skip it.
 *   Section 3 details some of the vulnerabilities to which DNS is open.

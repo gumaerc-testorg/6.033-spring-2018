@@ -12,7 +12,7 @@ title: Consistency Guarantees Assignment
 uid: c109e0c5-f4f6-9b52-7d96-b0c911fcd579
 ---
 
-Read the "[Replicated Data Consistency Explained Through Baseball (PDF)](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyAndBaseballReport.pdf)" paper by Doug Terry.
+Read the "{{% resource_link "d5a92cce-96f0-4802-9379-bdeb99a3d028" "Replicated Data Consistency Explained Through Baseball (PDF)" %}}" paper by Doug Terry.
 
 This paper is relatively light on technical details, but should give you an understanding of different consistency guarantees and how a system chooses which guarantee to use. Section 2 explains some different guarantees, and Sections 3 and 4 walk through some examples that illustrate places where each guarantee might be used.
 

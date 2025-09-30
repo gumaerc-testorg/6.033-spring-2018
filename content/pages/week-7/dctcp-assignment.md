@@ -11,7 +11,7 @@ title: DCTCP Assignment
 uid: 72f0d675-cb14-ba19-4c5d-7a81051af829
 ---
 
-*   Read "[Data Center TCP (DCTCP) (PDF - 2.98MB)](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)" by Mohammad Alizadeh, Albert Greenberg, et al.
+*   Read "{{% resource_link "3b81f5d9-df40-43b8-a8bf-379ef427fcaa" "Data Center TCP (DCTCP) (PDF - 2.98MB)" %}}" by Mohammad Alizadeh, Albert Greenberg, et al.
 *   Skip section 3.3 except for the final paragraph, which gives an estimate for the parameter _K_.
 *   Skim section 4 (Results)
 *   Closely observe figures 15 and 19, which show the queue occupancy as a function of time, and number of sources.

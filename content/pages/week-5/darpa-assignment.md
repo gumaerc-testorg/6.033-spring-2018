@@ -11,11 +11,11 @@ title: DARPA Assignment
 uid: d592637b-bae8-71c6-59ff-f27fb133b62a
 ---
 
-Read "[The Design Philosophy of the DARPA Internet Protocols (PDF)](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf)" by David Clark. Skip Section 10.
+Read "{{% resource_link "7bbbfa53-c244-48ee-891f-2f8d3f288487" "The Design Philosophy of the DARPA Internet Protocols (PDF)" %}}" by David Clark. Skip Section 10.
 
 Because networking is a new topic for many of you, we've put together a {{% resource_link b95bf0e7-9ebe-f383-1b68-ec8e4654f152 "short networking guide (PDF)" %}} to the very basics of networking. It should help de-mystify some of the vocabulary in the DARPA paper.
 
-We also recommend [the "How Does the Internet Work?" guide](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) (a bit longer, but still short), which goes into more detail than ours. It's from 2002, but the concepts still apply today.
+We also recommend {{% resource_link "afd9eaa7-4045-45b9-8687-62b71ca0af88" "the \"How Does the Internet Work?\" guide" %}} (a bit longer, but still short), which goes into more detail than ours. It's from 2002, but the concepts still apply today.
 
 If you are confused by any part of the DARPA paper, especially terminology, those two guides should be your first resources.
 

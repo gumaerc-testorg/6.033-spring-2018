@@ -59,7 +59,7 @@ Lecture 5: Threads
 Recitation 5: UNIX
 ------------------
 
-*   Read "[The Unix Time-Sharing System (PDF)](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by D. M. Ritchie & K. Thompson. Start with Section 5
+*   Read "{{% resource_link "e2538488-f8e1-46a7-9843-c6f7f6115d39" "The Unix Time-Sharing System (PDF)" %}}" by D. M. Ritchie & K. Thompson. Start with Section 5
 *   {{% resource_link 58979a0d-36a2-6cf8-2be3-a2f5313e3250 "UNIX Assignment Part 2" %}}
 
 Tutorial 3: Design Project Discussion

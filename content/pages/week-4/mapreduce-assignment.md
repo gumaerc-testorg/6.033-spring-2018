@@ -12,7 +12,7 @@ uid: 669830ff-a145-23d6-dcee-00927f0c1d39
 
 Preparation for MapReduce recitation
 
-*   Read "[MapReduce (PDF)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)" by J. Dean & S. Ghemawat.
+*   Read "{{% resource_link "8b11c903-fba6-4c5d-99a3-21c3c601fdda" "MapReduce (PDF)" %}}" by J. Dean & S. Ghemawat.
 *   Skip sections 4 and 7
 
 This paper was published at the biennial Usenix Symposium on Operating Systems Design and Implementation (OSDI) in 2004, one of the premier conferences in computer systems. (OSDI alternates with the equally prestigious ACM Symposium on Operating Systems Principles (SOSP), at which appeared Eraser, the paper you already read in a previous recitation.)

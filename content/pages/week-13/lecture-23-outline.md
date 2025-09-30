@@ -69,8 +69,8 @@ Disclaimer: This is part of the security section in 6.033. Only use the informat
     *   Many systems take a hybrid approach.
         *   Most also give users the ability to, once an attack is (passively) detected, do something to (actively) prevent it.
     *   Example intrusion-detection systems:
-        *   [Snort](https://www.snort.org/)
-        *   [Bro](https://www.bro.org/)
+        *   {{% resource_link "ff3b1d28-b7b5-498a-a918-04b6ba268d13" "Snort" %}}
+        *   {{% resource_link "ebff873e-ee98-42b7-a536-e435a1e3ee54" "Bro" %}}
 5.  How to Evade NIDS
     *   Suppose we build a NIDS to scan traffic for a particular string ("root"). Seems easy.
     *   Difficult because attacker can force confusing state on the NIDS (see slides).
@@ -96,10 +96,10 @@ Disclaimer: This is part of the security section in 6.033. Only use the informat
         *   Overload the routing table with too many routes.
         *   Hijack prefixes:
             *   Attacker gets an AS to announce that it originates a prefix that it doesn't actually own. Or to announce a more specific (and thus more-preferred) prefix. Or to just lie that a shorter route exists.
-            *   Example: [Hacker Redirects Traffic From 19 Internet Providers to Steal Bitcoins](http://www.wired.com/2014/08/isp-bitcoin-theft/).
-            *   Example: [YouTube Hijacking: A RIPE NCC RIS Case Study](https://www.ripe.net/publications/news/industry-developments/youtube-hijacking-a-ripe-ncc-ris-case-study).
-            *   Example: [Spam? Not Spam? Tracking a Hijacked Spamhaus IP](https://greenhost.net/blog/2013/03/21/spam-not-spam-tracking-a-hijacked-spamhaus-ip/).
-            *   Example: [Hackers Emptied Ethereum Wallets by Breaking the Basic Infrastructure of the Internet](https://www.theverge.com/2018/4/24/17275982/myetherwallet-hack-bgp-dns-hijacking-stolen-ethereum).
+            *   Example: {{% resource_link "84736c2c-83d5-4b34-a6af-938558b0c7b1" "Hacker Redirects Traffic From 19 Internet Providers to Steal Bitcoins" %}}.
+            *   Example: {{% resource_link "abb8fd6b-c023-4c8e-8683-d999614e16b0" "YouTube Hijacking: A RIPE NCC RIS Case Study" %}}.
+            *   Example: {{% resource_link "44b26a6e-1954-428a-8cdf-213489136838" "Spam? Not Spam? Tracking a Hijacked Spamhaus IP" %}}.
+            *   Example: {{% resource_link "dccc7de7-bde2-4810-a8f2-ce2e205b56e6" "Hackers Emptied Ethereum Wallets by Breaking the Basic Infrastructure of the Internet" %}}.
             *   Solution: Secure BGP. Similar mechanism as DNSSEC. But, with authentication, creating advertisements (signing them) takes about 100 times as long as it does now.
             *   Also need a lot of ASes to buy into this at once, otherwise it's not worth it.
 8.  Moral of the Story

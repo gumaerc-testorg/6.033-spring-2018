@@ -35,7 +35,7 @@ Lecture 14: Fault Tolerance: Reliability via Replication
 Recitation 14: Distributed Storage
 ----------------------------------
 
-*   Read "[The Google File System](https://ai.google/research/pubs/pub51)" by S. Ghemawat, H. Gobioff & S-T Leung
+*   Read "{{% resource_link "e0dda015-a057-454f-88fd-9bf4e4df82bf" "The Google File System" %}}" by S. Ghemawat, H. Gobioff & S-T Leung
 *   {{% resource_link 766d3b59-5f03-a2f4-b1ad-4d15d2427648 "Distributed Storage Assignment" %}}
 
 Lecture 15: Fault Tolerance: Introduction to Transactions

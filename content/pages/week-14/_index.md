@@ -34,7 +34,7 @@ Lecture 25: Tor
 Recitation 25: Meltdown
 -----------------------
 
-*   Read "[Meltdown (PDF)](https://meltdownattack.com/meltdown.pdf)" by M. Lipp, M. Schwarz, et al.
+*   Read "{{% resource_link "2ebdbcc5-abc0-4658-a3a1-d9d03e54def0" "Meltdown (PDF)" %}}" by M. Lipp, M. Schwarz, et al.
 *   {{% resource_link 447da471-034f-b347-4c11-bbe7bfa9e6b3 "Meltdown Assignment" %}}
 
 Lecture 26: Policy vs. Mechanism
@@ -46,12 +46,12 @@ Lecture 26: Policy vs. Mechanism
 
 ### Reading
 
-*   Read "[The Night Watch (PDF)](http://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf)" by James Mickens.
+*   Read "{{% resource_link "1f5fcee5-bf08-4998-95cc-c5fe633b168d" "The Night Watch (PDF)" %}}" by James Mickens.
 
 Recitation 26: Trusting Trust
 -----------------------------
 
-*   Read "[Reflections on Trusting Trust (PDF)](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)" by K. Thomson
+*   Read "{{% resource_link "3ca1d1eb-335b-4675-a1ab-641224367de9" "Reflections on Trusting Trust (PDF)" %}}" by K. Thomson
 *   {{% resource_link 1f147788-1493-7d98-11fd-9b451a7d7a4e "Trusting Trust Assignment" %}}
 
 END OF CLASSES

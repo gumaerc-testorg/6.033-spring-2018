@@ -794,7 +794,7 @@ No readings assigned
 
 **Lecture 26:** 
 
-"[The Night Watch (PDF)](http://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf)" by James Mickens
+"{{% resource_link "1f5fcee5-bf08-4998-95cc-c5fe633b168d" "The Night Watch (PDF)" %}}" by James Mickens
 
 
 {{< tdclose >}}

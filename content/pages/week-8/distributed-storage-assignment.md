@@ -11,7 +11,7 @@ title: Distributed Storage Assignment
 uid: 766d3b59-5f03-a2f4-b1ad-4d15d2427648
 ---
 
-Read "[The Google File System](https://ai.google/research/pubs/pub51)" by S. Ghemawat, H. Gobioff & S-T Leung. You've seen GFS before: It is the system that MapReduce relied on to replicate files.
+Read "{{% resource_link "e0dda015-a057-454f-88fd-9bf4e4df82bf" "The Google File System" %}}" by S. Ghemawat, H. Gobioff & S-T Leung. You've seen GFS before: It is the system that MapReduce relied on to replicate files.
 
 GFS is a system that replicates files across machines. It's meant for an environment where lots of users are writing to the files, the files are really big, and failures are common. Section 2–4 of the paper describe the design of GFS, Section 5 discusses how GFS handles failures, and Sections 6–7 detail their evaluation and real-world usage of GFS.
 

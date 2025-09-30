@@ -82,7 +82,7 @@ uid: e46aed55-3f04-cfcf-dcdd-9ab3513be6ed
         *   A/S might not want their (encrypted) call routed through someone else.
         *   P might not want to pay to transit traffic for A and S.
     *   Today: Microsoft owns all of the supernodes, making this less of a P2P network and more of a hierarchy.
-        *   Skype also claims that its [P2P system improves quality](https://support.skype.com/en/faq/FA10983/what-are-p2p-communications) by allowing for more optimal routing.
+        *   Skype also claims that its {{% resource_link "e9cc6602-7489-40ed-ae0e-8766894cd9ef" "P2P system improves quality" %}} by allowing for more optimal routing.
 6.  Video-Streaming (Briefly)
     *   Can we just use BitTorrent to stream (live) video?
         *   Streaming requires getting blocks (roughly) in order.
