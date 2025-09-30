@@ -11,7 +11,7 @@ title: Databases Assignment
 uid: f3fea455-6b17-29b1-b548-eaf293e7bf2c
 ---
 
-Read "[Concurrency Control and Recovery](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.38.1437)_"_ by Michael J. Franklin. Skip section 3.2.
+Read "{{% resource_link "31e21b0f-a69d-4806-88bc-4ccbc636fcbc" "Concurrency Control and Recovery" %}}_"_ by Michael J. Franklin. Skip section 3.2.
 
 This paper is easiest to digest in chunks. You don't have to—in fact, probably shouldn't—read it all at once (or even read it in order).
 

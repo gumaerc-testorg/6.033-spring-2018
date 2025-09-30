@@ -36,7 +36,7 @@ Lecture 19: Availability via Replication
 Recitation 19: Raft
 -------------------
 
-*   Read "[In Search of an Understandable Consensus Algorithm (PDF)](https://raft.github.io/raft.pdf)" by D. Ongaro & J. Ousterhout
+*   Read "{{% resource_link "854f03c1-fcec-4e27-b8ea-13f0376a429b" "In Search of an Understandable Consensus Algorithm (PDF)" %}}" by D. Ongaro & J. Ousterhout
 *   {{% resource_link 664be575-c00e-8b73-1e97-37cd0a323c01 "Raft Assignment" %}}
 
 Lecture 20: Introduction to Security

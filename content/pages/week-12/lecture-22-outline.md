@@ -43,7 +43,7 @@ Disclaimer: This is part of the security section in 6.033. Only use the informat
         - Encryption alone does not provide integrity.
             - Adversary could change some bits in ciphertext.
             - Other mathematical reasons:
-                - See [Why you need message authentication in addition to encryption](http://security.stackexchange.com/questions/33569/why-do-you-need-message-authentication-in-addition-to-encryption).
+                - See {{% resource_link "6f5fb3aa-5115-4e9f-a71a-c81b1f04344b" "Why you need message authentication in addition to encryption" %}}.
                 - Section 11.4.4 of the course textbook.
     - Ensure integrity via message authentication codes (MAC).
         - MAC(k, m) -> t
@@ -60,7 +60,7 @@ Disclaimer: This is part of the security section in 6.033. Only use the informat
     - Aside: Instead of \[c|h\], sender could send either of these:
         - c | MAC(c)
         - encrypt(k, m | MAC(k,m))
-        - All provide level of integrity that we need. Different levels of security against other types of attacks; see [Should MAC-then-encrypt or encrypt-then-MAC](http://crypto.stackexchange.com/questions/202/should-we-mac-then-encrypt-orencrypt-then-mac) if interested.
+        - All provide level of integrity that we need. Different levels of security against other types of attacks; see {{% resource_link "a1f9e51a-71aa-42a9-b6f0-d8ea9a620bf7" "Should MAC-then-encrypt or encrypt-then-MAC" %}} if interested.
     - Problem: Adversary can intercept, and then retransmit message ("replay" message).
     - Solution: Include a sequence number in every message, and choose a new random sequence number for every connection.
     - If adversary intercepts message, can't replay in the same way because sender won't reuse sequence number.

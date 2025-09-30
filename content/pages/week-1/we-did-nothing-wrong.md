@@ -11,7 +11,7 @@ title: We Did Nothing Wrong Assignment
 uid: a4a9ba01-b030-11d9-204c-ba12fbc0f60b
 ---
 
-Read "[We Did Nothing Wrong: Why Software Quality Matters](http://www.baselinemag.com/c/a/Projects-Processes/We-Did-Nothing-Wrong)" by Deborah Gage and John McCormick in _Baseline Magazine_ on March 4, 2004. This paper details a number of software systems that failed in spectacular ways, with most of the focus on a radiation machine made by Multidata called the Cobalt-60.
+Read "{{% resource_link "bcc9a077-185f-4efd-94a0-5b4dc6caf96e" "We Did Nothing Wrong: Why Software Quality Matters" %}}" by Deborah Gage and John McCormick in _Baseline Magazine_ on March 4, 2004. This paper details a number of software systems that failed in spectacular ways, with most of the focus on a radiation machine made by Multidata called the Cobalt-60.
 
 As you read, think about the following:
 

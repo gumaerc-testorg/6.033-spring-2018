@@ -36,7 +36,7 @@ Recitation 6: Eraser
 --------------------
 
 *   Before reading the Eraser paper, refresh your memory on what race conditions are and the troubles that they can cause by revisiting sections 5.2.2, 5.2.3, and 5.2.4 of the textbook.
-*   Read "[Eraser: A Dynamic Data Race Detector for Multithreaded Programs (PDF)](http://www.cs.ucsd.edu/~savage/papers/Tocs97.pdf)" by S. Savage, M. Burrows, G. Nelson, P. Sobalvarro & T. Anderson
+*   Read "{{% resource_link "688e2513-7c05-45ce-9f00-accefa71f1da" "Eraser: A Dynamic Data Race Detector for Multithreaded Programs (PDF)" %}}" by S. Savage, M. Burrows, G. Nelson, P. Sobalvarro & T. Anderson
 *   {{% resource_link 85894c20-22fb-054e-580a-61a43ed2648d "Eraser Assignment" %}}
 
 Lecture 7: Performance
@@ -70,7 +70,7 @@ Lecture 7: Performance
 Recitation 7: MapReduce
 -----------------------
 
-*   Read "[Map Reduce: Simplified Data Processing on Large Clusters (PDF)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)" by J. Dean & S. Ghemawat
+*   Read "{{% resource_link "8b11c903-fba6-4c5d-99a3-21c3c601fdda" "Map Reduce: Simplified Data Processing on Large Clusters (PDF)" %}}" by J. Dean & S. Ghemawat
 *   {{% resource_link 669830ff-a145-23d6-dcee-00927f0c1d39 "MapReduce Assignment" %}}
 
 Hands-on Assignment 3: MapReduce

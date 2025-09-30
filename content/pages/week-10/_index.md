@@ -43,7 +43,7 @@ Hands-on Assignment 7: Databases
 Recitation 18: Consistency Guarantees
 -------------------------------------
 
-*   Read "[Replicated Data Consistency Explained Through Baseball (PDF)](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyAndBaseballReport.pdf)" by D. Terry
+*   Read "{{% resource_link "d5a92cce-96f0-4802-9379-bdeb99a3d028" "Replicated Data Consistency Explained Through Baseball (PDF)" %}}" by D. Terry
 *   {{% resource_link c109e0c5-f4f6-9b52-7d96-b0c911fcd579 "Consistency Guarantees Assignment" %}}
 
 Tutorial 10: Analysis and Evaluation

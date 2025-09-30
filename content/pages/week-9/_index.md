@@ -38,7 +38,7 @@ Lecture 16: Atomicity via Logging
 Recitation 16: Log-Structured File System (LFS)
 -----------------------------------------------
 
-*   Read "[Log-structured File Systems (PDF)](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)" by R. & A. Arpaci-Dusseau
+*   Read "{{% resource_link "06c470e6-0629-44f7-aa7f-1da31cabf57c" "Log-structured File Systems (PDF)" %}}" by R. & A. Arpaci-Dusseau
 *   {{% resource_link cbb27708-c82e-11a7-a3f9-be7fc848063b "Log-Structured File System (LFS) Assignment" %}}
 
 Hands-on Assignment 6: Write Ahead Log (WAL) System
@@ -74,7 +74,7 @@ Lecture 17: Fault Tolerance: Isolation
 Recitation 17: Databases
 ------------------------
 
-*   Read "[Concurrency Control and Recovery](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.38.1437)" by M. J. Franklin
+*   Read "{{% resource_link "31e21b0f-a69d-4806-88bc-4ccbc636fcbc" "Concurrency Control and Recovery" %}}" by M. J. Franklin
 *   {{% resource_link f3fea455-6b17-29b1-b548-eaf293e7bf2c "Databases Assignment" %}}
 
 Tutorial 9: \[No Tutorial this Week\]

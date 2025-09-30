@@ -12,12 +12,12 @@ title: Raft Assignment
 uid: 664be575-c00e-8b73-1e97-37cd0a323c01
 ---
 
-For this recitation, you'll be reading "[In Search of an Understandable Consensus Algorithm (PDF)](https://raft.github.io/raft.pdf)" by Diego Ongaro and John Ousterhout. This paper describes Raft, an algorithm for achieving distributed consensus. The paper contrasts Raft to an algorithm called Paxos: You do **not** need to know anything about Paxos to read this paper. Raft was designed to be more understandable than Paxos.
+For this recitation, you'll be reading "{{% resource_link "854f03c1-fcec-4e27-b8ea-13f0376a429b" "In Search of an Understandable Consensus Algorithm (PDF)" %}}" by Diego Ongaro and John Ousterhout. This paper describes Raft, an algorithm for achieving distributed consensus. The paper contrasts Raft to an algorithm called Paxos: You do **not** need to know anything about Paxos to read this paper. Raft was designed to be more understandable than Paxos.
 
 Before reading the paper, check out two very helpful websites, which have some useful visualizations:
 
-*   An [introduction](http://thesecretlivesofdata.com/raft/) to distributed consensus
-*   A [visualization](https://raft.github.io/) of Raft
+*   An {{% resource_link "58da2f7d-8eb0-495e-9f13-404ebe24ed12" "introduction" %}} to distributed consensus
+*   A {{% resource_link "d69d84e8-5455-4488-accf-9f08c4aaee8b" "visualization" %}} of Raft
 
 With those visualizations in mind, read the paper. Skip sections 5.4.3 and 7, and skim sections 9.1 and 9.2.
 

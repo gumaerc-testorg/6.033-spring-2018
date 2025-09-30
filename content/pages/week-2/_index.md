@@ -67,7 +67,7 @@ Lecture 3: Operating Systems + Virtual Memory
 Recitation 4: UNIX Part 1
 -------------------------
 
-*   Read "[The Unix Time-Sharing System (PDF)](http://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by D.M. Ritchie & K. Thompson. Recitation 4 focuses on the first four sections of the paper (Recitation 5 will focus on the rest.)
+*   Read "{{% resource_link "1cf9c998-3107-47ba-97b2-684bcf343a43" "The Unix Time-Sharing System (PDF)" %}}" by D.M. Ritchie & K. Thompson. Recitation 4 focuses on the first four sections of the paper (Recitation 5 will focus on the rest.)
 *   {{% resource_link 37760e09-a6c5-09c9-e969-bcefe6230e7d "UNIX Assignment Part 1" %}}
 
 Hands-on Assignment 2: UNIX

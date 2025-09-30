@@ -70,7 +70,7 @@ Lecture 11: Transport Layer
 Recitation 11: Resilient Overlay Networks (RON)
 -----------------------------------------------
 
-*   Read most of "[Resilient Overlay Networks (PDF)](http://nms.lcs.mit.edu/papers/ron-sosp2001.pdf)" by D. Andersen, H. Balakrishnan, et al.
+*   Read most of "{{% resource_link "2fe69266-cdc3-4ff7-84e6-2e955dd4178d" "Resilient Overlay Networks (PDF)" %}}" by D. Andersen, H. Balakrishnan, et al.
 *   See assignment for details about which sections to read.
 *   {{% resource_link c09c7d62-696b-071f-ffb0-88433fa31b32 "RON Assignment" %}}
 

@@ -72,7 +72,7 @@ Disclaimer: This is part of the security section in 6.033. Only use the informat
         - Tor does not defend against this, but does have users use only a few entry nodes, in the hopes that they are trusted.
             - Their argument is that having your traffic identified some of the time is as bad as having it identified all of the time. This approach means there is a nonzero chance that it will \*never\* be identified, unlike a set-up where users choose a new random entry node each time.
         - A few other attacks exist, mostly due to details of Tor that we didn't cover in 6.033.
-        - The Tor developers are very up front about [what it protects against](https://www.torproject.org/docs/faq.html.en).
+        - The Tor developers are very up front about {{% resource_link "ea3984ba-46e2-4589-abc8-4b2dc47ffb35" "what it protects against" %}}.
 5. Performance   
     - Tor can be slow at times, and latency is high.
         - Partly inevitable: Traffic bounces all around the globe, plus involves decryption at every step.

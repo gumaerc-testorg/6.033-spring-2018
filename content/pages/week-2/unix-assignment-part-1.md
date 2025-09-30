@@ -11,7 +11,7 @@ title: UNIX Assignment Part 1
 uid: 37760e09-a6c5-09c9-e969-bcefe6230e7d
 ---
 
-Read "[The UNIX Time-Sharing System (PDF)](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by Dennis Ritchie and Ken Thompson. Recitation 4 will focus on the first four sections of the paper; Recitation 5 will focus on the rest.
+Read "{{% resource_link "e2538488-f8e1-46a7-9843-c6f7f6115d39" "The UNIX Time-Sharing System (PDF)" %}}" by Dennis Ritchie and Ken Thompson. Recitation 4 will focus on the first four sections of the paper; Recitation 5 will focus on the rest.
 
 To help you as you read:
 

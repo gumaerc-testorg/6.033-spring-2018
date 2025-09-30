@@ -11,7 +11,7 @@ title: Trusting Trust Assignment
 uid: 1f147788-1493-7d98-11fd-9b451a7d7a4e
 ---
 
-Read "[Reflections on Trusting Trust (PDF)](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)" by Ken Thompson. (_Note: In this version, figure 2.2 should be labeled 2.1 and vice versa_). This is one of our shortest readings—only three pages—but do not be deceived by its brevity. The paper is actually a transcript of Ken Thompson's Turing Award acceptance speech.
+Read "{{% resource_link "3ca1d1eb-335b-4675-a1ab-641224367de9" "Reflections on Trusting Trust (PDF)" %}}" by Ken Thompson. (_Note: In this version, figure 2.2 should be labeled 2.1 and vice versa_). This is one of our shortest readings—only three pages—but do not be deceived by its brevity. The paper is actually a transcript of Ken Thompson's Turing Award acceptance speech.
 
 The paper emphasizes how difficult it is to be sure that you know what your software actually does. One way to avoid treacherous software would be to write all your software yourself. Although this approach would in principle solve the problem, it is overwhelmingly impractical. One has no choice but to rely on, and thus trust, software from other sources.
 
