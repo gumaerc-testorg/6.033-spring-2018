@@ -11,7 +11,7 @@ parent_uid: 87aba984-30c8-d18b-3f71-7bdec998328f
 title: Botnets Assignment
 uid: ea13cbf1-25e6-cb4f-d552-53fee6563f83
 ---
-Read "[Your Botnet is My Botnet: Analysis of a Botnet Takeover](https://dl.acm.org/doi/10.1145/1653662.1653738)" by Stone-Gross, et al. You can skim sections 5.2.1–5.2.3.
+Read "{{% resource_link "e13035a9-604d-4c0f-841c-655fc61420ee" "Your Botnet is My Botnet: Analysis of a Botnet Takeover" %}}" by Stone-Gross, et al. You can skim sections 5.2.1–5.2.3.
 
 - Section 2 explains how Torpig infects a user's machine. After reading this section, you should understand how that happens: how the rootkit gets installed and why its installation remains undetected.
 - Section 3 explains the technique (domain flux) by which Torpig bots communicate with the C&C (command and control) server. After reading this section, you should understand why it's difficult to simply block bots from accessing the C&C server.
