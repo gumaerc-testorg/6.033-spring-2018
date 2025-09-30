@@ -14,7 +14,7 @@ uid: c4a5c659-5c87-2d2d-140b-12b013818b4a
 Disclaimer: This is part of the security section in 6.033. Only use the information you learn in this portion of the class to secure your own systems, not to attack others.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-An invaluable resource for Bitcoin is this blog post: [How the Bitcoin Protocol Actually Works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/).
+An invaluable resource for Bitcoin is this blog post: {{% resource_link "ad2065be-cfca-4091-b298-c1fac2f42708" "How the Bitcoin Protocol Actually Works" %}}.
 
 1. Introduction   
     - We've covered how to provide confidentiality, integrity, and authenticity.

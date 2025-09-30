@@ -38,7 +38,7 @@ No readings assigned
 
 ## Recitation 12: Data Center Transmission Control Protocol (DCTP)
 
-- Read "\_\_[Data Center TCP (DCTCP) (PDF - 3.1MB)](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)" by M. Alizadeh, A. Greenberg, D. Maltz, J. Padhye & P. Patel
+- Read "\_\_{{% resource_link "3b81f5d9-df40-43b8-a8bf-379ef427fcaa" "Data Center TCP (DCTCP) (PDF - 3.1MB)" %}}" by M. Alizadeh, A. Greenberg, D. Maltz, J. Padhye & P. Patel
 - {{% resource_link "72f0d675-cb14-ba19-4c5d-7a81051af829" "DCTP Assignment" %}}
 
 ## Lecture 13: Networking: P2P Networks + Content Distribution Network (CDN)
@@ -64,7 +64,7 @@ No readings assigned
 
 ## Recitation 13: Content Distribution Networks (CDNs)
 
-- Read "[The Akamai Network: A Platform for High-Performance Internet Applications (PDF)](https://www.akamai.com/site/en/documents/research-paper/the-akamai-network-a-platform-for-high-performance-internet-applications-technical-publication.pdf)" by E. Nygren, R. Sitaraman & J. Sun
+- Read "{{% resource_link "f6b3cd9e-3a90-46e8-9a68-aa48dc2b125d" "The Akamai Network: A Platform for High-Performance Internet Applications (PDF)" %}}" by E. Nygren, R. Sitaraman & J. Sun
 - {{% resource_link "0de7a026-cc51-8d64-2305-b1769d62af0f" "CDN Assignment" %}}
 
 ## Tutorial 7: \[No Tutorial this Week\]
