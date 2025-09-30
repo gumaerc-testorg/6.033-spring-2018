@@ -33,13 +33,13 @@ This primary objective is supported by a few others:
     - How reliable, usable distributed systems are able to be built on top of an unreliable network.
     - Common pitfalls in the security of computer systems, and how to combat them.
 
-Because this is a [Communication Intensive in the Major](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects) (CI-M) class, students will also learn to communicate in forms that are common in the field of computer systems. This includes written design reports, oral presentations, and peer review.
+Because this is a {{% resource_link "863025a4-db13-401a-a6c1-aa700851c1fd" "Communication Intensive in the Major" %}} (CI-M) class, students will also learn to communicate in forms that are common in the field of computer systems. This includes written design reports, oral presentations, and peer review.
 
 The communication instruction also supports the primary learning objective of designing systems. In the real world, we design systems in teams, and communication of many forms (written, oral, etc.) is part of that process.
 
 ## Required Text
 
-Saltzer, Jerome H. and M. Frans Kaashoek. _Principles of Computer System Design: An Introduction, Part I_. Morgan Kaufmann, 2009. ISBN: 9780123749574. \[Preview with [Google Books](http://books.google.com/books?id=I-NOcVMGWSUC&pg=PAfrontcover)\]
+Saltzer, Jerome H. and M. Frans Kaashoek. _Principles of Computer System Design: An Introduction, Part I_. Morgan Kaufmann, 2009. ISBN: 9780123749574. \[Preview with {{% resource_link "140902ee-0a30-48e6-bf65-27e16656cae5" "Google Books" %}}\]
 
 The text supplements the lectures and recitations; it should be your first resource when you are confused by a lecture topic, or want more information.
 
